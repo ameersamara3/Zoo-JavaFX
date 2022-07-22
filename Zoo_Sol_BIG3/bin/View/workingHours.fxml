@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="957.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.workingHours">
+   <children>
+      <ImageView fitHeight="100.0" fitWidth="150.0" layoutX="810.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/cornerlogo.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="551.0" fitWidth="686.0" layoutX="97.0" layoutY="72.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Button blendMode="MULTIPLY" layoutX="15.0" layoutY="629.0" mnemonicParsing="false" onAction="#back" prefHeight="25.0" prefWidth="90.0" style="-fx-background-color: #00EE18;" text="Back" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <ImageView fitHeight="498.0" fitWidth="637.0" layoutX="125.0" layoutY="98.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/Best%20WordPress%20plugin%20to%20display%20office,%20work,%20business%20hours,%20business%20days%20in%20blog.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

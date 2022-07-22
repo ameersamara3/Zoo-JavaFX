@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="957.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.addEmployeeByEmployee">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="480.0" focusTraversable="true" layoutX="480.0" layoutY="300.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/map.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="375.0" fitWidth="480.0" focusTraversable="true" layoutY="1.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="100.0" fitWidth="150.0" focusTraversable="true" layoutX="810.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/cornerlogo.PNG" />
+         </image>
+      </ImageView>
+      <VBox layoutX="34.0" layoutY="27.0" prefHeight="216.0" prefWidth="138.0">
+         <children>
+            <Label prefHeight="38.0" prefWidth="154.0" text=" First Name">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="10.0" prefHeight="46.0" prefWidth="197.0" text="Last Name">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="10.0" prefHeight="46.0" prefWidth="199.0" text="Date of birth">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="196.0" prefHeight="46.0" prefWidth="198.0" text="Gender">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label prefHeight="26.0" prefWidth="154.0" text="Job">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <VBox layoutX="181.0" layoutY="27.0" prefHeight="264.0" prefWidth="238.0">
+         <children>
+            <TextField fx:id="fname" prefHeight="28.0" prefWidth="218.0" promptText="Enter First Name">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </TextField>
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+            <TextField fx:id="lname" prefHeight="30.0" prefWidth="214.0" promptText="Enter Last Name">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </TextField>
+            <Separator prefHeight="18.0" prefWidth="150.0" />
+            <DatePicker fx:id="bday" prefHeight="22.0" prefWidth="194.0" />
+            <Separator prefHeight="18.0" prefWidth="150.0" />
+            <HBox prefHeight="24.0" prefWidth="211.0">
+               <children>
+                  <RadioButton fx:id="female" mnemonicParsing="false" prefHeight="27.0" prefWidth="70.0" text="Female">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="gender" />
+                     </toggleGroup>
+                     <font>
+                        <Font name="System Bold Italic" size="11.0" />
+                     </font></RadioButton>
+                  <RadioButton fx:id="male" mnemonicParsing="false" prefHeight="24.0" prefWidth="75.0" text="Male" toggleGroup="$gender">
+                     <font>
+                        <Font name="System Bold Italic" size="11.0" />
+                     </font></RadioButton>
+                  <RadioButton fx:id="unknown" mnemonicParsing="false" prefHeight="24.0" prefWidth="74.0" text="Unknown" toggleGroup="$gender">
+                     <font>
+                        <Font name="System Bold Italic" size="11.0" />
+                     </font></RadioButton>
+               </children>
+            </HBox>
+            <Separator prefHeight="14.0" prefWidth="223.0" />
+            <ChoiceBox fx:id="job" prefHeight="23.0" prefWidth="150.0" />
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+            <TextField fx:id="photoPath" prefHeight="30.0" prefWidth="227.0">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </TextField>
+         </children>
+      </VBox>
+      <Button layoutX="698.0" layoutY="625.0" mnemonicParsing="false" onAction="#submit" prefHeight="30.0" prefWidth="118.0" style="-fx-background-color: #1A00EE; -fx-background-radius: 100;" text="Add Employee" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font></Button>
+      <Button blendMode="MULTIPLY" layoutX="22.0" layoutY="645.0" mnemonicParsing="false" onAction="#back" prefHeight="36.0" prefWidth="118.0" style="-fx-background-color: #00EE18;" text="Back" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font></Button>
+      <Label layoutX="30.0" layoutY="243.0" prefHeight="36.0" prefWidth="130.0" text="Photo Optional)">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="upload" fitHeight="30.0" fitWidth="33.0" layoutX="431.0" layoutY="246.0" onMouseClicked="#upload" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/Upload-Transparent.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

@@ -1,0 +1,742 @@
+successfully added Section sectionA
+successfully added Section sectionB
+successfully added Section sectionC
+successfully added Section sectionG
+successfully added Section sectionT
+
+successfully added SnackBar monkey bar
+successfully added SnackBar dog caffe
+failed to add SnackBar aroma
+successfully added SnackBar lion house
+successfully added SnackBar bug caffe
+failed to add SnackBar lama taste
+successfully added SnackBar turtule bar
+successfully added SnackBar cat zone
+
+successfully added Mammal Baboon
+successfully added Mammal Ape
+successfully added Mammal Bear
+successfully added Mammal Beaver
+successfully added Mammal Bison
+successfully added Mammal Giraffe
+successfully added Mammal Giant Panda
+successfully added Mammal Gorilla
+successfully added Mammal Baboon
+successfully added Mammal Beaver
+successfully added Mammal Bison
+successfully added Mammal Camel
+successfully added Mammal Coyote
+successfully added Mammal Fox
+successfully added Mammal Gorilla
+successfully added Mammal Elephant
+successfully added Mammal Ape
+successfully added Mammal Bear
+successfully added Mammal Beaver
+successfully added Mammal Coyote
+successfully added Mammal Fox
+successfully added Mammal Giraffe
+successfully added Mammal Giant Panda
+successfully added Mammal Gorilla
+successfully added Mammal Elephant
+successfully added Mammal Beaver
+successfully added Mammal Bison
+successfully added Mammal Camel
+successfully added Mammal Coyote
+
+successfully added Reptile Crab
+successfully added Reptile Crocodile
+successfully added Reptile Frog
+successfully added Reptile Turtle
+successfully added Reptile Cobra
+successfully added Reptile Toad
+successfully added Reptile Viper
+successfully added Reptile Crab
+successfully added Reptile Crocodile
+successfully added Reptile Salamander
+successfully added Reptile Snail
+successfully added Reptile Toad
+successfully added Reptile Viper
+successfully added Reptile Crab
+successfully added Reptile Turtle
+successfully added Reptile Cobra
+successfully added Reptile Salamander
+successfully added Reptile Snail
+successfully added Reptile Toad
+successfully added Reptile Crocodile
+successfully added Reptile Frog
+successfully added Reptile Turtle
+successfully added Reptile Cobra
+successfully added Reptile Salamander
+successfully added Reptile Viper
+successfully added Reptile Crocodile
+successfully added Reptile Frog
+successfully added Reptile Turtle
+successfully added Reptile Snail
+successfully added Reptile Toad
+successfully added Reptile Viper
+successfully added Reptile Crab
+successfully added Reptile Crocodile
+successfully added Reptile Cobra
+successfully added Reptile Salamander
+
+successfully added Bird Crow
+successfully added Bird Eagle
+successfully added Bird Falcon
+successfully added Bird Flamingo
+successfully added Bird Pelican
+successfully added Bird Penguin
+successfully added Bird Crow
+successfully added Bird Duck
+successfully added Bird Eagle
+successfully added Bird Owl
+successfully added Bird Pelican
+successfully added Bird Penguin
+successfully added Bird Crow
+successfully added Bird Falcon
+successfully added Bird Flamingo
+successfully added Bird Hawk
+successfully added Bird Owl
+successfully added Bird Pelican
+successfully added Bird Duck
+successfully added Bird Eagle
+successfully added Bird Falcon
+
+New Visitor Name: Izzy Clutram, TicketType: Adult Paid 28.0 NIS
+successfully added Visitor Izzy Clutram
+New Visitor Name: Emilia O'Nion, TicketType: Old Paid 21.0 NIS
+successfully added Visitor Emilia O'Nion
+New Visitor Name: Kiele Heball, TicketType: Adult Paid 28.0 NIS
+successfully added Visitor Kiele Heball
+this Animal need to get her treatment,and need to rest
+New Visitor Name: Garvin Blant, TicketType: Child Paid 14.0 NIS
+successfully added Visitor Garvin Blant
+Visitor Name: Elyssa Larsen, TicketType: Student didn't enter the zoo
+failed to add Visitor Elyssa Larsen
+Visitor Name: Evelyn Dureden, TicketType: Adult didn't enter the zoo
+failed to add Visitor Evelyn Dureden
+Visitor Name: Jacquelyn Sibbe, TicketType: Old didn't enter the zoo
+failed to add Visitor Jacquelyn Sibbe
+New Visitor Name: Jethro Kernell, TicketType: Old Paid 24.0 NIS
+successfully added Visitor Jethro Kernell
+New Visitor Name: Redford O' Scallan, TicketType: Child Paid 16.0 NIS
+successfully added Visitor Redford O' Scallan
+New Visitor Name: Wade Diggar, TicketType: Adult Paid 32.0 NIS
+successfully added Visitor Wade Diggar
+New Visitor Name: Lemard Tawton, TicketType: Old Paid 24.0 NIS
+successfully added Visitor Lemard Tawton
+New Visitor Name: Lemar Tawton, TicketType: Adult Paid 32.0 NIS
+successfully added Visitor Lemar Tawton
+Visitor Name: Zonnya Gladman, TicketType: Student didn't enter the zoo
+failed to add Visitor Zonnya Gladman
+Visitor Name: Vikky Acreman, TicketType: Adult didn't enter the zoo
+failed to add Visitor Vikky Acreman
+New Visitor Name: Benjie O'Garmen, TicketType: Adult Paid 28.0 NIS
+successfully added Visitor Benjie O'Garmen
+New Visitor Name: Yoshiko Roder, TicketType: Old Paid 21.0 NIS
+successfully added Visitor Yoshiko Roder
+this Animal need to get her treatment,and need to rest
+New Visitor Name: Adelaida Inkle, TicketType: Student Paid 27.0 NIS
+successfully added Visitor Adelaida Inkle
+New Visitor Name: Odetta Sprulls, TicketType: Student Paid 27.0 NIS
+successfully added Visitor Odetta Sprulls
+New Visitor Name: Patin Gaitskell, TicketType: Old Paid 21.0 NIS
+successfully added Visitor Patin Gaitskell
+Visitor Name: Thelma Mannin, TicketType: Adult didn't enter the zoo
+failed to add Visitor Thelma Mannin
+Visitor Name: Jim De Coursey, TicketType: Old didn't enter the zoo
+failed to add Visitor Jim De Coursey
+New Visitor Name: Zacherie Redhole, TicketType: Soldiar Paid 17.5 NIS
+successfully added Visitor Zacherie Redhole
+this Animal need to get her treatment,and need to rest
+New Visitor Name: Patten Dyos, TicketType: Old Paid 21.0 NIS
+successfully added Visitor Patten Dyos
+Visitor Name: Corrie Berkeley, TicketType: Student didn't enter the zoo
+failed to add Visitor Corrie Berkeley
+New Visitor Name: Patrica Weaben, TicketType: Old Paid 21.0 NIS
+successfully added Visitor Patrica Weaben
+New Visitor Name: Orlyna Dosset, TicketType: Adult Paid 28.0 NIS
+successfully added Visitor Orlyna Dosset
+Visitor Name: Orly Dossett, TicketType: Adult didn't enter the zoo
+failed to add Visitor Orly Dossett
+Visitor Name: Trudie Milsom, TicketType: Old didn't enter the zoo
+failed to add Visitor Trudie Milsom
+New Visitor Name: Susannah Sherrett, TicketType: Student Paid 24.0 NIS
+successfully added Visitor Susannah Sherrett
+New Visitor Name: Mayor Spurret, TicketType: Student Paid 24.0 NIS
+successfully added Visitor Mayor Spurret
+New Visitor Name: Benton Dibbin, TicketType: Adult Paid 32.0 NIS
+successfully added Visitor Benton Dibbin
+New Visitor Name: Kathryn Crenshaw, TicketType: Old Paid 24.0 NIS
+successfully added Visitor Kathryn Crenshaw
+New Visitor Name: Vasilis Gallen, TicketType: Adult Paid 32.0 NIS
+successfully added Visitor Vasilis Gallen
+this Animal need to get her treatment,and need to rest
+Visitor Name: Corby Minchinden, TicketType: Student didn't enter the zoo
+failed to add Visitor Corby Minchinden
+Visitor Name: Liv Bretland, TicketType: Adult didn't enter the zoo
+failed to add Visitor Liv Bretland
+New Visitor Name: Glen Yerill, TicketType: Adult Paid 32.0 NIS
+successfully added Visitor Glen Yerill
+New Visitor Name: Angelika Fahy, TicketType: Old Paid 24.0 NIS
+successfully added Visitor Angelika Fahy
+New Visitor Name: Adelaida Naismith, TicketType: Adult Paid 32.0 NIS
+successfully added Visitor Adelaida Naismith
+New Visitor Name: Wainwright Picopp, TicketType: Adult Paid 32.0 NIS
+successfully added Visitor Wainwright Picopp
+New Visitor Name: Melody Cavozzi, TicketType: Student Paid 24.0 NIS
+successfully added Visitor Melody Cavozzi
+Visitor Name: Hervey Ogg, TicketType: Adult didn't enter the zoo
+failed to add Visitor Hervey Ogg
+Visitor Name: Tonnie Cushelly, TicketType: Adult didn't enter the zoo
+failed to add Visitor Tonnie Cushelly
+Visitor Name: Gavan Breeton, TicketType: Child didn't enter the zoo
+failed to add Visitor Gavan Breeton
+New Visitor Name: Deloria Pfaff, TicketType: Old Paid 24.0 NIS
+successfully added Visitor Deloria Pfaff
+
+successfully added Employee Mead Bossons
+successfully added Employee Ibbie Penas
+successfully added Employee Enos Stanmore
+successfully added Employee Drew Titman
+successfully added Employee Joela Weddeburn - Scrimgeour
+successfully added Employee Michelina Boynton
+this Animal need to get her treatment,and need to rest
+successfully added Employee Fritz Glascott
+successfully added Employee Sterne Colchett
+successfully added Employee Flora Currin
+successfully added Employee Roz Pipkin
+successfully added Employee Trip Dyter
+successfully added Employee Kermie McDonnell
+this Animal need to get her treatment,and need to rest
+successfully added Employee Prescott Navarijo
+successfully added Employee Waiter Fillan
+successfully added Employee Audrey Pool
+successfully added Employee Jonah Mannakee
+successfully added Employee Kerrill Dufer
+this Animal need to get her treatment,and need to rest
+successfully added Employee Terri-jo Moylan
+successfully added Employee Godard Romao
+successfully added Employee Bekki Dorber
+successfully added Employee Robers Edmund
+successfully added Employee Reinhold Marciskewski
+successfully added Employee Sheri Danhel
+successfully added Employee Morrie Painter
+successfully added Employee Marietta Bithell
+this Animal need to get her treatment,and need to rest
+successfully added Employee Elfrida Joust
+this Animal need to get her treatment,and need to rest
+successfully added Employee Claus Jaffray
+successfully added Employee Harley Dressell
+successfully added Employee Ricky Turle
+successfully added Employee Jordon Kincade
+successfully added Employee Torr Knok
+successfully added Employee Stefano Meininger
+this Animal need to get her treatment,and need to rest
+successfully added Employee Rogers Mackneis
+successfully added Employee Lena Simionescu
+this Animal need to get her treatment,and need to rest
+
+successfully added Snack Food [id=1, type=Snack, snackName=Bamba, isFattening=true, price=8.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=2, type=Snack, snackName=Bisli, isFattening=true, price=8.0] [plate=false, spaciy=true]
+successfully added Snack Food [id=4, type=Snack, snackName=Popcorn, isFattening=true, price=10.0] [plate=false, spaciy=true]
+successfully added Snack Drink [id=5, type=Drink, snackName=Coca Cola, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=true]
+successfully added Snack Drink [id=7, type=Drink, snackName=Fanta, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=true]
+successfully added Snack Drink [id=8, type=Drink, snackName=Water, isFattening=false, price=5.0] [sprinkel=false, straw=false, iceCube=true]
+successfully added Snack Drink [id=9, type=Drink, snackName=Sprite, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=true]
+successfully added Snack Food [id=11, type=Meat, snackName=Meat Sandwich, isFattening=true, price=30.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=12, type=Vegiterian, snackName=Vegy Sandwich, isFattening=false, price=15.0] [plate=true, spaciy=false]
+successfully added Snack Food [id=14, type=Dairy_Snack, snackName=Pesek Zman, isFattening=true, price=8.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=15, type=Dairy_Snack, snackName=Teami, isFattening=true, price=7.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=16, type=Dairy_Snack, snackName=Tortit, isFattening=true, price=7.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=18, type=Snack, snackName=Bamba, isFattening=true, price=8.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=19, type=Snack, snackName=Bisli, isFattening=true, price=8.0] [plate=false, spaciy=true]
+successfully added Snack Food [id=21, type=Snack, snackName=Popcorn, isFattening=true, price=10.0] [plate=false, spaciy=true]
+successfully added Snack Drink [id=22, type=Drink, snackName=Coca Cola, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=true]
+successfully added Snack Drink [id=23, type=Drink, snackName=Diet Cola, isFattening=false, price=8.0] [sprinkel=true, straw=false, iceCube=true]
+successfully added Snack Drink [id=25, type=Drink, snackName=Water, isFattening=false, price=5.0] [sprinkel=false, straw=false, iceCube=true]
+successfully added Snack Drink [id=26, type=Drink, snackName=Sprite, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=true]
+successfully added Snack Food [id=28, type=Meat, snackName=Meat Sandwich, isFattening=true, price=30.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=29, type=Vegiterian, snackName=Vegy Sandwich, isFattening=false, price=15.0] [plate=true, spaciy=false]
+successfully added Snack Food [id=30, type=Gluten_Free, snackName=Special Bamba, isFattening=true, price=10.0] [plate=false, spaciy=true]
+successfully added Snack Food [id=32, type=Dairy_Snack, snackName=Teami, isFattening=true, price=7.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=33, type=Dairy_Snack, snackName=Tortit, isFattening=true, price=7.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=35, type=Snack, snackName=Bamba, isFattening=true, price=8.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=36, type=Snack, snackName=Bisli, isFattening=true, price=8.0] [plate=false, spaciy=true]
+successfully added Snack Food [id=37, type=Snack, snackName=Apropo, isFattening=true, price=5.0] [plate=true, spaciy=true]
+successfully added Snack Drink [id=39, type=Drink, snackName=Coca Cola, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=true]
+successfully added Snack Drink [id=40, type=Drink, snackName=Diet Cola, isFattening=true, price=8.0] [sprinkel=true, straw=false, iceCube=true]
+successfully added Snack Drink [id=42, type=Drink, snackName=Water, isFattening=true, price=5.0] [sprinkel=false, straw=false, iceCube=false]
+successfully added Snack Drink [id=43, type=Drink, snackName=Sprite, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=true]
+successfully added Snack Food [id=44, type=Meat, snackName=Hot Dog, isFattening=false, price=20.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=46, type=Vegiterian, snackName=Vegy Sandwich, isFattening=true, price=15.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=47, type=Gluten_Free, snackName=Special Bamba, isFattening=true, price=10.0] [plate=false, spaciy=true]
+successfully added Snack Food [id=49, type=Dairy_Snack, snackName=Teami, isFattening=true, price=7.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=50, type=Dairy_Snack, snackName=Tortit, isFattening=true, price=7.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=51, type=Vegiterian, snackName=Toast, isFattening=true, price=25.0] [plate=true, spaciy=false]
+successfully added Snack Food [id=53, type=Snack, snackName=Bisli, isFattening=true, price=8.0] [plate=false, spaciy=false]
+successfully added Snack Food [id=54, type=Snack, snackName=Apropo, isFattening=false, price=5.0] [plate=true, spaciy=true]
+successfully added Snack Drink [id=56, type=Drink, snackName=Coca Cola, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=false]
+successfully added Snack Drink [id=57, type=Drink, snackName=Diet Cola, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=false]
+successfully added Snack Drink [id=58, type=Drink, snackName=Fanta, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=false]
+successfully added Snack Drink [id=60, type=Drink, snackName=Sprite, isFattening=true, price=8.0] [sprinkel=true, straw=true, iceCube=false]
+successfully added Snack Food [id=61, type=Meat, snackName=Hot Dog, isFattening=true, price=20.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=63, type=Vegiterian, snackName=Vegy Sandwich, isFattening=false, price=15.0] [plate=false, spaciy=false]
+successfully added Snack Food [id=64, type=Gluten_Free, snackName=Special Bamba, isFattening=true, price=10.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=65, type=Dairy_Snack, snackName=Pesek Zman, isFattening=true, price=8.0] [plate=true, spaciy=true]
+successfully added Snack Food [id=67, type=Dairy_Snack, snackName=Tortit, isFattening=true, price=7.0] [plate=true, spaciy=true]
+
+failed to remove Employee 60
+failed to remove Employee 205
+
+failed to remove Visitor 50
+failed to remove Visitor 130
+
+successfully removed Mammal 15
+failed to remove Mammal 220
+
+failed to remove Reptile 210
+successfully removed Reptile 30
+
+successfully removed Bird 5
+failed to remove Bird 210
+
+successfully removed Snack 55
+failed to remove Snack 110
+
+successfully removed Snack 5
+failed to remove Snack 110
+
+successfully removed SnackBar 2
+failed to remove SnackBar 56
+
+successfully removed Section 2
+failed to remove Section 12
+
+you reach to less then 50% of capacty canot move to other section
+Visitor Name: Patrica Weaben, TicketType: Old moved from Section sectionG toSection Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]
+you reach to less then 50% of capacty canot move to other section
+you reach to less then 50% of capacty canot move to other section
+you reach to less then 50% of capacty canot move to other section
+you reach to less then 50% of capacty canot move to other section
+you reach to less then 50% of capacty canot move to other section
+
+Visitor: Visitor Name: Izzy Clutram, TicketType: Adult Purchased Food: Food [id=1, type=Snack, snackName=Bamba, isFattening=true, price=8.0] [plate=true, spaciy=true]
+Visitor: Visitor Name: Kiele Heball, TicketType: Adult Did Not Purchased Snack
+Visitor: Visitor Name: Wade Diggar, TicketType: Adult Did Not Purchased Snack
+Visitor: Visitor Name: Zacherie Redhole, TicketType: Soldiar Did Not Purchased any FOOD
+Visitor: Visitor Name: Izzy Clutram, TicketType: Adult Did Not Purchased any DRINK
+
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+successfully added to visits
+
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+successfully added to treat by VET 
+
+Section sectionA ,Number Of Employees: 7 ,Number Of Visitors: 6 ,Number Of Animals: 16 ,Profit Today: 153.5
+Section sectionC ,Number Of Employees: 7 ,Number Of Visitors: 6 ,Number Of Animals: 18 ,Profit Today: 151.0
+Section sectionG ,Number Of Employees: 6 ,Number Of Visitors: 5 ,Number Of Animals: 17 ,Profit Today: 142.0
+Section sectionT ,Number Of Employees: 14 ,Number Of Visitors: 12 ,Number Of Animals: 31 ,Profit Today: 137.0
+
+
+Query 1: [getAllAnimalsBySectionMaxVisits]
+successfully get all animals by section 
+Bird [id=30,
+ name=Eagle, birthDay=2019-05-02, food=Peanuts, visitCounter=3, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] canFly=true, canTakePic=true]
+
+Bird [id=16,
+ name=Owl, birthDay=2011-09-25, food=Peanuts, visitCounter=11, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] canFly=true, canTakePic=true]
+
+Bird [id=19,
+ name=Crow, birthDay=2016-09-11, food=Carrot, visitCounter=15, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] canFly=true, canTakePic=false]
+
+Bird [id=9,
+ name=Penguin, birthDay=2007-02-25, food=Corn, visitCounter=17, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] canFly=false, canTakePic=false]
+
+Bird [id=23,
+ name=Flamingo, birthDay=2011-02-02, food=Carrot, visitCounter=21, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] canFly=false, canTakePic=false]
+
+Bird [id=26,
+ name=Pelican, birthDay=2020-01-16, food=Corn, visitCounter=26, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] canFly=true, canTakePic=true]
+
+Bird [id=12,
+ name=Eagle, birthDay=2011-07-08, food=Peanuts, visitCounter=27, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] canFly=true, canTakePic=true]
+
+Mammal [id=23,
+ name=Elephant, birthDay=1993-10-22, food=Carrot, visitCounter=6, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Elephant, Meat Eater: false,take a picfalse
+
+Mammal [id=26,
+ name=Beaver, birthDay=2006-06-04, food=Corn, visitCounter=8, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Beaver, Meat Eater: false,take a pictrue
+
+Mammal [id=37,
+ name=Beaver, birthDay=1975-09-11, food=Peanuts, visitCounter=10, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Beaver, Meat Eater: false,take a picfalse
+
+Mammal [id=19,
+ name=Fox, birthDay=1974-10-04, food=Sausage, visitCounter=10, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Fox, Meat Eater: false,take a picfalse
+
+Mammal [id=2,
+ name=Ape, birthDay=2003-08-05, food=Sausage, visitCounter=13, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Ape, Meat Eater: false,take a picfalse
+
+Mammal [id=12,
+ name=Baboon, birthDay=2008-07-12, food=Raw_Meat, visitCounter=23, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Baboon, Meat Eater: false,take a pictrue
+
+Mammal [id=30,
+ name=Fox, birthDay=1988-08-26, food=Corn, visitCounter=36, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Fox, Meat Eater: false,take a picfalse
+
+Mammal [id=40,
+ name=Coyote, birthDay=1990-06-04, food=Cucumber, visitCounter=39, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Coyote, Meat Eater: false,take a pictrue
+
+Mammal [id=33,
+ name=Gorilla, birthDay=1979-02-28, food=Peanuts, visitCounter=41, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Gorilla, Meat Eater: false,take a pictrue
+
+Mammal [id=16,
+ name=Bison, birthDay=2009-01-21, food=Sausage, visitCounter=45, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Bison, Meat Eater: false,take a pictrue
+
+Mammal [id=5,
+ name=Bison, birthDay=1987-03-13, food=Sausage, visitCounter=46, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Bison, Meat Eater: false,take a pictrue
+
+Mammal [id=9,
+ name=Giraffe, birthDay=2006-10-07, food=Raw_Meat, visitCounter=50, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Giraffe, Meat Eater: true,take a picfalse
+
+Reptile [id=2,
+ name=Crocodile, birthDay=2014-03-23, food=Corn, visitCounter=4, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Crocodile, Dangerous: true, sleep at the sesson: false
+
+Reptile [id=33,
+ name=Salamander, birthDay=2019-06-04, food=Peanuts, visitCounter=4, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Salamander, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=47,
+ name=Crocodile, birthDay=2006-01-21, food=Carrot, visitCounter=5, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Crocodile, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=44,
+ name=Toad, birthDay=2000-01-12, food=Cucumber, visitCounter=6, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Toad, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=26,
+ name=Toad, birthDay=2010-04-24, food=Corn, visitCounter=8, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Toad, Dangerous: true, sleep at the sesson: false
+
+Reptile [id=9,
+ name=Viper, birthDay=2006-11-26, food=Peanuts, visitCounter=15, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Viper, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=23,
+ name=Cobra, birthDay=2014-01-25, food=Carrot, visitCounter=19, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Cobra, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=5,
+ name=Cobra, birthDay=2015-01-20, food=Peanuts, visitCounter=22, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Cobra, Dangerous: false, sleep at the sesson: false
+
+Reptile [id=16,
+ name=Snail, birthDay=2004-05-22, food=Cucumber, visitCounter=22, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Snail, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=51,
+ name=Salamander, birthDay=2007-12-17, food=Carrot, visitCounter=29, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Salamander, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=19,
+ name=Crab, birthDay=2016-11-09, food=Carrot, visitCounter=37, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Crab, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=40,
+ name=Turtle, birthDay=2012-12-15, food=Cucumber, visitCounter=88, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Turtle, Dangerous: true, sleep at the sesson: true
+
+
+Query 2: [allAnimalsByWorker]
+failed to get all animals from worker 15
+Query 2: [allAnimalsByWorker]
+successfully to get all animals from worker 
+Mammal [id=1,
+ name=Baboon, birthDay=1972-06-24, food=Sausage, visitCounter=39, gender=Male, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Baboon, Meat Eater: false,take a pictrue
+
+Mammal [id=29,
+ name=Coyote, birthDay=1973-06-12, food=Peanuts, visitCounter=1, gender=Female, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Coyote, Meat Eater: false,take a picfalse
+
+Mammal [id=10,
+ name=Giant Panda, birthDay=1973-07-26, food=Raw_Meat, visitCounter=43, gender=Female, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Giant Panda, Meat Eater: false,take a picfalse
+
+Mammal [id=19,
+ name=Fox, birthDay=1974-10-04, food=Sausage, visitCounter=10, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Fox, Meat Eater: false,take a picfalse
+
+Mammal [id=37,
+ name=Beaver, birthDay=1975-09-11, food=Peanuts, visitCounter=10, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Beaver, Meat Eater: false,take a picfalse
+
+Mammal [id=35,
+ name=Ape, birthDay=1975-10-21, food=Carrot, visitCounter=34, gender=Female, section=null] Name: Ape, Meat Eater: false,take a pictrue
+
+Mammal [id=24,
+ name=Ape, birthDay=1976-06-10, food=Cucumber, visitCounter=44, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Ape, Meat Eater: false,take a picfalse
+
+Mammal [id=6,
+ name=Camel, birthDay=1979-06-10, food=Sausage, visitCounter=36, gender=Female, section=null] Name: Camel, Meat Eater: false,take a pictrue
+
+Mammal [id=7,
+ name=Coyote, birthDay=1980-11-09, food=Sausage, visitCounter=9, gender=Male, section=null] Name: Coyote, Meat Eater: false,take a pictrue
+
+Mammal [id=13,
+ name=Ape, birthDay=1983-03-04, food=Raw_Meat, visitCounter=46, gender=Male, section=null] Name: Ape, Meat Eater: false,take a picfalse
+
+Mammal [id=11,
+ name=Gorilla, birthDay=1983-10-07, food=Raw_Meat, visitCounter=21, gender=Male, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Gorilla, Meat Eater: false,take a picfalse
+
+Mammal [id=39,
+ name=Camel, birthDay=1986-03-10, food=Carrot, visitCounter=34, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Camel, Meat Eater: false,take a picfalse
+
+Mammal [id=5,
+ name=Bison, birthDay=1987-03-13, food=Sausage, visitCounter=46, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Bison, Meat Eater: false,take a pictrue
+
+Mammal [id=31,
+ name=Giraffe, birthDay=1988-02-23, food=Carrot, visitCounter=13, gender=Female, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Giraffe, Meat Eater: false,take a picfalse
+
+Mammal [id=18,
+ name=Coyote, birthDay=1988-07-20, food=Raw_Meat, visitCounter=47, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Coyote, Meat Eater: false,take a pictrue
+
+Mammal [id=30,
+ name=Fox, birthDay=1988-08-26, food=Corn, visitCounter=36, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Fox, Meat Eater: false,take a picfalse
+
+Mammal [id=40,
+ name=Coyote, birthDay=1990-06-04, food=Cucumber, visitCounter=39, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Coyote, Meat Eater: false,take a pictrue
+
+Mammal [id=25,
+ name=Bear, birthDay=1991-07-23, food=Peanuts, visitCounter=1, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Bear, Meat Eater: false,take a picfalse
+
+Mammal [id=22,
+ name=Gorilla, birthDay=1992-08-09, food=Corn, visitCounter=21, gender=Male, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Gorilla, Meat Eater: false,take a picfalse
+
+Mammal [id=23,
+ name=Elephant, birthDay=1993-10-22, food=Carrot, visitCounter=6, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Elephant, Meat Eater: false,take a picfalse
+
+Mammal [id=8,
+ name=Fox, birthDay=1993-12-25, food=Sausage, visitCounter=4, gender=Female, section=null] Name: Fox, Meat Eater: false,take a picfalse
+
+Mammal [id=32,
+ name=Giant Panda, birthDay=1994-05-15, food=Cucumber, visitCounter=7, gender=Male, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Giant Panda, Meat Eater: false,take a picfalse
+
+Mammal [id=34,
+ name=Baboon, birthDay=1997-06-14, food=Corn, visitCounter=15, gender=Male, section=null] Name: Baboon, Meat Eater: false,take a pictrue
+
+Reptile [id=45,
+ name=Viper, birthDay=2001-04-08, food=Peanuts, visitCounter=3, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Viper, Dangerous: true, sleep at the sesson: false
+
+Mammal [id=17,
+ name=Camel, birthDay=2001-08-09, food=Raw_Meat, visitCounter=1, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Camel, Meat Eater: false,take a pictrue
+
+Mammal [id=20,
+ name=Giraffe, birthDay=2001-08-18, food=Sausage, visitCounter=30, gender=Female, section=null] Name: Giraffe, Meat Eater: false,take a picfalse
+
+Reptile [id=48,
+ name=Frog, birthDay=2002-05-09, food=Cucumber, visitCounter=19, gender=Female, section=null] Name: Frog, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=6,
+ name=Salamander, birthDay=2002-07-23, food=Corn, visitCounter=2, gender=Female, section=null] Name: Salamander, Dangerous: true, sleep at the sesson: true
+
+Mammal [id=41,
+ name=Fox, birthDay=2003-01-01, food=Peanuts, visitCounter=31, gender=Female, section=null] Name: Fox, Meat Eater: false,take a pictrue
+
+Mammal [id=2,
+ name=Ape, birthDay=2003-08-05, food=Sausage, visitCounter=13, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Ape, Meat Eater: false,take a picfalse
+
+Reptile [id=12,
+ name=Frog, birthDay=2003-09-10, food=Cucumber, visitCounter=26, gender=Female, section=null] Name: Frog, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=43,
+ name=Snail, birthDay=2003-12-18, food=Carrot, visitCounter=4, gender=Male, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Snail, Dangerous: true, sleep at the sesson: true
+
+Bird [id=18,
+ name=Penguin, birthDay=2004-04-16, food=Corn, visitCounter=18, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] canFly=false, canTakePic=true]
+
+Reptile [id=8,
+ name=Toad, birthDay=2004-07-19, food=Cucumber, visitCounter=4, gender=Female, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Toad, Dangerous: true, sleep at the sesson: true
+
+Bird [id=27,
+ name=Penguin, birthDay=2005-05-02, food=Corn, visitCounter=15, gender=Female, section=null] canFly=false, canTakePic=false]
+
+Reptile [id=47,
+ name=Crocodile, birthDay=2006-01-21, food=Carrot, visitCounter=5, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Crocodile, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=49,
+ name=Turtle, birthDay=2006-03-01, food=Peanuts, visitCounter=6, gender=Male, section=null] Name: Turtle, Dangerous: true, sleep at the sesson: true
+
+Mammal [id=26,
+ name=Beaver, birthDay=2006-06-04, food=Corn, visitCounter=8, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Beaver, Meat Eater: false,take a pictrue
+
+Bird [id=14,
+ name=Flamingo, birthDay=2006-07-02, food=Carrot, visitCounter=13, gender=Female, section=null] canFly=false, canTakePic=true]
+
+Reptile [id=14,
+ name=Cobra, birthDay=2007-02-15, food=Corn, visitCounter=36, gender=Female, section=null] Name: Cobra, Dangerous: true, sleep at the sesson: true
+
+Bird [id=9,
+ name=Penguin, birthDay=2007-02-25, food=Corn, visitCounter=17, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] canFly=false, canTakePic=false]
+
+Reptile [id=42,
+ name=Salamander, birthDay=2007-10-01, food=Corn, visitCounter=4, gender=Female, section=null] Name: Salamander, Dangerous: true, sleep at the sesson: false
+
+Bird [id=20,
+ name=Duck, birthDay=2007-10-20, food=Cucumber, visitCounter=3, gender=Male, section=null] canFly=false, canTakePic=true]
+
+Reptile [id=51,
+ name=Salamander, birthDay=2007-12-17, food=Carrot, visitCounter=29, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Salamander, Dangerous: true, sleep at the sesson: true
+
+Mammal [id=38,
+ name=Bison, birthDay=2008-06-10, food=Corn, visitCounter=23, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Bison, Meat Eater: false,take a picfalse
+
+Mammal [id=28,
+ name=Camel, birthDay=2008-06-28, food=Cucumber, visitCounter=8, gender=Male, section=null] Name: Camel, Meat Eater: false,take a pictrue
+
+Mammal [id=12,
+ name=Baboon, birthDay=2008-07-12, food=Raw_Meat, visitCounter=23, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Baboon, Meat Eater: false,take a pictrue
+
+Mammal [id=16,
+ name=Bison, birthDay=2009-01-21, food=Sausage, visitCounter=45, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Bison, Meat Eater: false,take a pictrue
+
+Reptile [id=28,
+ name=Crab, birthDay=2009-10-07, food=Cucumber, visitCounter=35, gender=Female, section=null] Name: Crab, Dangerous: true, sleep at the sesson: true
+
+Mammal [id=14,
+ name=Bear, birthDay=2009-10-27, food=Raw_Meat, visitCounter=13, gender=Female, section=null] Name: Bear, Meat Eater: false,take a picfalse
+
+Reptile [id=38,
+ name=Crocodile, birthDay=2010-02-24, food=Corn, visitCounter=28, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Crocodile, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=26,
+ name=Toad, birthDay=2010-04-24, food=Corn, visitCounter=8, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Toad, Dangerous: true, sleep at the sesson: false
+
+Bird [id=29,
+ name=Duck, birthDay=2010-07-09, food=Cucumber, visitCounter=27, gender=Female, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] canFly=false, canTakePic=false]
+
+Reptile [id=4,
+ name=Turtle, birthDay=2010-10-16, food=Cucumber, visitCounter=9, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Turtle, Dangerous: true, sleep at the sesson: true
+
+Bird [id=23,
+ name=Flamingo, birthDay=2011-02-02, food=Carrot, visitCounter=21, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] canFly=false, canTakePic=false]
+
+Reptile [id=31,
+ name=Turtle, birthDay=2011-09-16, food=Carrot, visitCounter=15, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Turtle, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=40,
+ name=Turtle, birthDay=2012-12-15, food=Cucumber, visitCounter=88, gender=Male, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Turtle, Dangerous: true, sleep at the sesson: true
+
+Bird [id=11,
+ name=Duck, birthDay=2013-01-28, food=Cucumber, visitCounter=28, gender=Male, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] canFly=false, canTakePic=false]
+
+Reptile [id=2,
+ name=Crocodile, birthDay=2014-03-23, food=Corn, visitCounter=4, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Crocodile, Dangerous: true, sleep at the sesson: false
+
+Reptile [id=36,
+ name=Viper, birthDay=2014-11-21, food=Cucumber, visitCounter=37, gender=Female, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Viper, Dangerous: true, sleep at the sesson: true
+
+Reptile [id=10,
+ name=Crab, birthDay=2016-06-18, food=Corn, visitCounter=3, gender=Female, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Crab, Dangerous: true, sleep at the sesson: false
+
+Mammal [id=4,
+ name=Beaver, birthDay=2017-04-03, food=Sausage, visitCounter=39, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Beaver, Meat Eater: false,take a picfalse
+
+Bird [id=2,
+ name=Duck, birthDay=2018-02-27, food=Cucumber, visitCounter=17, gender=Male, section=null] canFly=false, canTakePic=true]
+
+Mammal [id=36,
+ name=Elephant, birthDay=2019-06-19, food=Cucumber, visitCounter=17, gender=Male, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Elephant, Meat Eater: false,take a picfalse
+
+Reptile [id=35,
+ name=Toad, birthDay=2020-08-16, food=Carrot, visitCounter=30, gender=Male, section=null] Name: Toad, Dangerous: true, sleep at the sesson: true
+
+
+Query 3: [findAllSnackByWorker]
+successfully to find snacks  
+Query 3: [findAllSnackByWorker]
+successfully to find snacks  
+Food [id=19, type=Snack, snackName=Bisli, isFattening=true, price=8.0] [plate=false, spaciy=true]
+
+Food [id=47, type=Gluten_Free, snackName=Special Bamba, isFattening=true, price=10.0] [plate=false, spaciy=true]
+
+
+Query 4: [reptilesSleepAtSeasson]
+successfully  to find reptiels
+Reptile [id=23,
+ name=Cobra, birthDay=2014-01-25, food=Carrot, visitCounter=19, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Cobra, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=41,
+ name=Cobra, birthDay=2012-12-02, food=Peanuts, visitCounter=11, gender=Male, section=null] Name: Cobra, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=32,
+ name=Cobra, birthDay=2001-12-12, food=Cucumber, visitCounter=16, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Cobra, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=1,
+ name=Crab, birthDay=2005-09-25, food=Peanuts, visitCounter=5, gender=Male, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Crab, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=19,
+ name=Crab, birthDay=2016-11-09, food=Carrot, visitCounter=37, gender=Female, section=Section [id=5, sectionName=sectionT, maxCapacity=3, todayRevenue=137.0]] Name: Crab, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=46,
+ name=Crab, birthDay=2015-07-27, food=Corn, visitCounter=19, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Crab, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=11,
+ name=Crocodile, birthDay=2019-07-28, food=Carrot, visitCounter=17, gender=Male, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Crocodile, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=20,
+ name=Crocodile, birthDay=2014-10-27, food=Cucumber, visitCounter=20, gender=Male, section=null] Name: Crocodile, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=3,
+ name=Frog, birthDay=2015-01-14, food=Carrot, visitCounter=36, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Frog, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=39,
+ name=Frog, birthDay=2010-06-16, food=Carrot, visitCounter=33, gender=Female, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Frog, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=15,
+ name=Salamander, birthDay=2004-01-13, food=Carrot, visitCounter=14, gender=Male, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Salamander, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=24,
+ name=Salamander, birthDay=2019-04-09, food=Cucumber, visitCounter=20, gender=Female, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Salamander, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=7,
+ name=Snail, birthDay=2000-11-03, food=Carrot, visitCounter=2, gender=Male, section=null] Name: Snail, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=25,
+ name=Snail, birthDay=2006-03-21, food=Peanuts, visitCounter=40, gender=Male, section=Section [id=4, sectionName=sectionG, maxCapacity=5, todayRevenue=142.0]] Name: Snail, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=16,
+ name=Snail, birthDay=2004-05-22, food=Cucumber, visitCounter=22, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Snail, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=17,
+ name=Toad, birthDay=2012-01-01, food=Peanuts, visitCounter=23, gender=Male, section=Section [id=3, sectionName=sectionC, maxCapacity=44, todayRevenue=151.0]] Name: Toad, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=44,
+ name=Toad, birthDay=2000-01-12, food=Cucumber, visitCounter=6, gender=Female, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Toad, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=22,
+ name=Turtle, birthDay=2006-05-23, food=Corn, visitCounter=4, gender=Female, section=Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]] Name: Turtle, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=9,
+ name=Viper, birthDay=2006-11-26, food=Peanuts, visitCounter=15, gender=Male, section=Section [id=2, sectionName=sectionB, maxCapacity=22, todayRevenue=151.0]] Name: Viper, Dangerous: false, sleep at the sesson: true
+
+Reptile [id=27,
+ name=Viper, birthDay=2012-04-08, food=Carrot, visitCounter=17, gender=Male, section=null] Name: Viper, Dangerous: false, sleep at the sesson: true
+
+
+Query 5: [geAllDiscountAmount]
+there is the list of visitors and their amoubt needed to pay  Visitor Name: Adelaida Inkle, TicketType: Student 3.0
+Visitor Name: Redford O' Scallan, TicketType: Child 4.0
+Visitor Name: Garvin Blant, TicketType: Child 6.0
+Visitor Name: Zacherie Redhole, TicketType: Soldiar 7.5
+Visitor Name: Wade Diggar, TicketType: Adult 8.0
+Visitor Name: Emilia O'Nion, TicketType: Old 9.0
+Visitor Name: Izzy Clutram, TicketType: Adult 12.0
+
+
+Query 6: [getMaxVisitorsVSMaxWorkers]
+The Max Section is  Section [id=1, sectionName=sectionA, maxCapacity=10, todayRevenue=153.5]
+

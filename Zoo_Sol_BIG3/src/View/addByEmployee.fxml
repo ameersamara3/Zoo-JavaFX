@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="957.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.addByEmployee">
+   <children>
+      <ImageView fitHeight="450.0" fitWidth="450.0" layoutX="470.0" layoutY="110.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <VBox layoutX="515.0" layoutY="191.0" prefHeight="231.0" prefWidth="150.0">
+         <children>
+            <RadioButton fx:id="snack" mnemonicParsing="false" prefHeight="8.0" prefWidth="132.0" text="Snack" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+               <toggleGroup>
+                  <ToggleGroup fx:id="choose" />
+               </toggleGroup>
+            </RadioButton>
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+            <RadioButton fx:id="employee" mnemonicParsing="false" text="Employee" toggleGroup="$choose">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+            </RadioButton>
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+            <RadioButton fx:id="visitor" mnemonicParsing="false" text="Visitor" toggleGroup="$choose">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+            </RadioButton>
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+         </children>
+      </VBox>
+      <Label layoutX="477.0" layoutY="77.0" prefHeight="18.0" prefWidth="245.0" text="choose what to add:">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Label>
+      <Label fx:id="welcome" layoutX="14.0" layoutY="1.0" prefHeight="26.0" prefWidth="150.0" underline="true" />
+      <ChoiceBox fx:id="snackChoice" layoutX="672.0" layoutY="191.0" prefHeight="18.0" prefWidth="101.0" />
+      <Button blendMode="MULTIPLY" layoutX="730.0" layoutY="470.0" mnemonicParsing="false" onAction="#submit" prefHeight="30.0" prefWidth="170.0" style="-fx-background-color: #1AFEF9;" text="submit" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Button>
+      <Button blendMode="MULTIPLY" layoutX="25.0" layoutY="645.0" mnemonicParsing="false" onAction="#back" prefHeight="40.0" prefWidth="120.0" style="-fx-background-color: A9036C;" text="Back" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="420.0" fitWidth="435.0" layoutX="30.0" layoutY="120.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/benny%20family.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="115.0" fitWidth="110.0" layoutX="228.0" layoutY="9.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/logo.PNG" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

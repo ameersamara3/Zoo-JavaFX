@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.media.MediaView?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="1" fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.logIn">
+   <children>
+      <MediaView fx:id="mv" fitHeight="700.0" fitWidth="1000.0" layoutX="-14.0" layoutY="-8.0" />
+      <ImageView fitHeight="482.0" fitWidth="452.0" layoutX="132.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="92.0" AnchorPane.leftAnchor="132.0" AnchorPane.topAnchor="126.0">
+         <image>
+            <Image url="@View/photoszoo/logo.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="289.0" fitWidth="307.0" layoutX="588.0" layoutY="53.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="568.0" layoutY="65.0" prefHeight="46.0" prefWidth="356.0" text="       sign in to continue">
+         <font>
+            <Font name="System Italic" size="28.0" />
+         </font>
+      </Label>
+      <Button layoutX="607.0" layoutY="274.0" mnemonicParsing="false" onAction="#signin" prefHeight="24.0" prefWidth="251.0" style="-fx-background-color: #E45334;" text="Sign In">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <ImageView fitHeight="168.0" fitWidth="168.0" layoutX="649.0" layoutY="365.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Button layoutX="668.0" layoutY="462.0" mnemonicParsing="false" onAction="#signup" prefHeight="26.0" prefWidth="134.0" style="-fx-background-color: #E45334;" text="sign up" textAlignment="CENTER" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <Label layoutX="664.0" layoutY="382.0" prefHeight="20.0" prefWidth="291.0" text="Don't have an account?" underline="true" wrapText="true">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font></Label>
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#exit" prefHeight="2.0" prefWidth="84.0" style="-fx-background-color: #FFFE00;" text="EXIT" textAlignment="CENTER" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <PasswordField fx:id="password" layoutX="610.0" layoutY="186.0" prefHeight="46.0" prefWidth="251.0" promptText="Enter Password">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </PasswordField>
+      <Separator layoutX="598.0" layoutY="166.0" prefHeight="30.0" prefWidth="270.0" />
+      <Separator layoutX="610.0" layoutY="248.0" prefHeight="41.0" prefWidth="245.0" />
+      <TextField fx:id="username" layoutX="607.0" layoutY="126.0" prefHeight="42.0" prefWidth="251.0" promptText="Enter Username">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <ImageView fitHeight="30.0" fitWidth="60.0" layoutX="898.0" layoutY="6.0" onMouseClicked="#settings" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/Sound.PNG" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

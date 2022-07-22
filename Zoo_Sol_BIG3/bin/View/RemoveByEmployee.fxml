@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="957.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.RemoveByEmployee">
+   <children>
+      <ImageView fitHeight="231.0" fitWidth="259.0" layoutX="62.0" layoutY="109.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="350.0" fitWidth="353.0" layoutX="333.0" layoutY="141.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <VBox layoutX="85.0" layoutY="157.0" prefHeight="142.0" prefWidth="150.0">
+         <children>
+            <RadioButton fx:id="snack" mnemonicParsing="false" onMouseClicked="#click" prefHeight="20.0" prefWidth="133.0" text="Snack">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+               <toggleGroup>
+                  <ToggleGroup fx:id="choose" />
+               </toggleGroup>
+            </RadioButton>
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+            <RadioButton fx:id="employee" mnemonicParsing="false" onMouseClicked="#click" text="Employee" toggleGroup="$choose">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+            </RadioButton>
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+            <RadioButton fx:id="visitor" mnemonicParsing="false" onMouseClicked="#click" text="Visitor" toggleGroup="$choose">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+            </RadioButton>
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+         </children>
+      </VBox>
+      <ImageView fitHeight="161.0" fitWidth="180.0" layoutX="701.0" layoutY="409.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="721.0" layoutY="424.0" prefHeight="25.0" prefWidth="146.0" text=" Or Remove by ID:">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="id" layoutX="719.0" layoutY="463.0" prefHeight="34.0" prefWidth="150.0" promptText="Enter The ID">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <Button blendMode="MULTIPLY" layoutX="744.0" layoutY="516.0" mnemonicParsing="false" onAction="#removeID" prefHeight="30.0" prefWidth="95.0" style="-fx-background-color: #EE0000;" text="REMOVE" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <ListView fx:id="list" layoutX="353.0" layoutY="182.0" prefHeight="241.0" prefWidth="313.0" />
+      <Label layoutX="435.0" layoutY="154.0" prefHeight="18.0" prefWidth="127.0" text="Remove by List:">
+         <font>
+            <Font name="System Bold Italic" size="17.0" />
+         </font>
+      </Label>
+      <Button blendMode="MULTIPLY" layoutX="440.0" layoutY="432.0" mnemonicParsing="false" onAction="#RemoveSelected" prefHeight="30.0" prefWidth="127.0" style="-fx-background-color: #EE0000;" text="REMOVE" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <Button blendMode="MULTIPLY" layoutX="40.0" layoutY="626.0" mnemonicParsing="false" onAction="#back" prefHeight="25.0" prefWidth="90.0" style="-fx-background-color: #00EE18;" text="Back" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <ImageView fitHeight="100.0" fitWidth="150.0" focusTraversable="true" layoutX="810.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/cornerlogo.PNG" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

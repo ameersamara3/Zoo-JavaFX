@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="136.0" prefWidth="360.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.Setting">
+   <children>
+      <ImageView fitHeight="136.0" fitWidth="366.0" layoutX="-3.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Slider fx:id="sound" layoutX="136.0" layoutY="31.0" />
+      <Slider fx:id="music" layoutX="136.0" layoutY="81.0" />
+      <Button layoutX="282.0" layoutY="97.0" mnemonicParsing="false" onAction="#ok" prefHeight="25.0" prefWidth="64.0" style="-fx-background-color: #ffa50a;" text="ok" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font></Button>
+      <ImageView fitHeight="32.0" fitWidth="64.0" layoutX="39.0" layoutY="22.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/soundl.jpeg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="42.0" fitWidth="64.0" layoutX="51.0" layoutY="67.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@View/photoszoo/music.jpeg" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>

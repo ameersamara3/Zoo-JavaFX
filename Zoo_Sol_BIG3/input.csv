@@ -1,0 +1,894 @@
+-- ADD Sections --,,,,,,,,,,
+,,,,,,,,,,
+addSection,sectionA,15,,,,,,,,
+addSection,sectionB,30,,,,,,,,
+addSection,sectionC,32,,,,,,,,
+addSection,sectionD,48,,,,,,,,
+addSection,sectionE,27,,,,,,,,
+addSection,sectionF,60,,,,,,,,
+addSection,sectionG,85,,,,,,,,
+addSection,sectionH,55,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- ADD SnackBar --,,,,,,,,,,
+,,,,,,,,,,
+addSnackBar,monkey bar,1,,,,,,,,
+addSnackBar,dog caffe,2,,,,,,,,
+addSnackBar,aroma,3,,,,,,,,
+addSnackBar,lion house,4,,,,,,,,
+addSnackBar,bug caffe,5,,,,,,,,
+addSnackBar,lama taste,6,,,,,,,,
+addSnackBar,turtule bar,7,,,,,,,,
+addSnackBar,cat zone,8,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+-- ADD Mammal --,,,,,,,,,,
+addMammal,Baboon,1972,6,24,Sausage,Male,1,TRUE,TRUE,39
+addMammal,Ape,2003,8,5,Sausage,Female,2,TRUE,TRUE,13
+addMammal,Bear,1974,7,23,Sausage,Male,3,TRUE,TRUE,35
+addMammal,Beaver,2017,4,3,Sausage,Female,4,TRUE,TRUE,39
+addMammal,Bison,1987,3,13,Sausage,Male,5,TRUE,TRUE,46
+addMammal,Camel,1979,6,10,Sausage,Female,6,TRUE,TRUE,36
+addMammal,Coyote,1980,11,9,Sausage,Male,7,TRUE,TRUE,9
+addMammal,Fox,1993,12,25,Sausage,Female,8,TRUE,TRUE,2
+addMammal,Giraffe,2006,10,7,Raw_Meat,Male,2,TRUE,TRUE,50
+addMammal,Giant Panda,1973,7,26,Raw_Meat,Female,3,TRUE,TRUE,43
+addMammal,Gorilla,1983,10,7,Raw_Meat,Male,4,TRUE,TRUE,21
+addMammal,Baboon,2008,7,12,Raw_Meat,Female,5,TRUE,TRUE,23
+addMammal,Ape,1983,3,4,Raw_Meat,Male,6,TRUE,TRUE,46
+addMammal,Bear,2009,10,27,Raw_Meat,Female,7,TRUE,TRUE,12
+addMammal,Beaver,1992,11,19,Sausage,Male,1,TRUE,TRUE,19
+addMammal,Bison,2009,1,21,Sausage,Female,2,TRUE,TRUE,45
+addMammal,Camel,2001,8,9,Raw_Meat,Male,3,TRUE,TRUE,0
+addMammal,Coyote,1988,7,20,Raw_Meat,Female,4,TRUE,TRUE,47
+addMammal,Fox,1974,10,4,Sausage,Male,5,TRUE,TRUE,8
+addMammal,Giraffe,2001,8,18,Sausage,Female,6,TRUE,TRUE,27
+addMammal,Giant Panda,1991,9,12,Raw_Meat,Male,7,TRUE,TRUE,8
+addMammal,Gorilla,1992,8,9,Corn,Male,1,FALSE,FALSE,20
+addMammal,Elephant,1993,10,22,Carrot,Female,2,FALSE,FALSE,6
+addMammal,Ape,1976,6,10,Cucumber,Male,3,FALSE,FALSE,44
+addMammal,Bear,1991,7,23,Peanuts,Female,4,FALSE,FALSE,0
+addMammal,Beaver,2006,6,4,Corn,Male,5,FALSE,FALSE,8
+addMammal,Bison,1990,2,15,Carrot,Female,8,FALSE,FALSE,34
+addMammal,Camel,2008,6,28,Cucumber,Male,7,FALSE,FALSE,5
+addMammal,Coyote,1973,6,12,Peanuts,Female,1,FALSE,FALSE,1
+addMammal,Fox,1988,8,26,Corn,Male,2,FALSE,FALSE,36
+addMammal,Giraffe,1988,2,23,Carrot,Female,3,FALSE,FALSE,13
+addMammal,Giant Panda,1994,5,15,Cucumber,Male,4,FALSE,FALSE,7
+addMammal,Gorilla,1979,2,28,Peanuts,Female,5,FALSE,FALSE,41
+addMammal,Baboon,1997,6,14,Corn,Male,6,FALSE,FALSE,15
+addMammal,Ape,1975,10,21,Carrot,Female,7,FALSE,FALSE,34
+addMammal,Elephant,2019,6,19,Cucumber,Male,1,FALSE,FALSE,17
+addMammal,Beaver,1975,9,11,Peanuts,Female,2,FALSE,FALSE,9
+addMammal,Bison,2008,6,10,Corn,Male,3,FALSE,FALSE,22
+addMammal,Camel,1986,3,10,Carrot,Female,4,FALSE,FALSE,34
+addMammal,Coyote,1990,6,4,Cucumber,Male,5,FALSE,FALSE,39
+addMammal,Fox,2003,1,1,Peanuts,Female,6,FALSE,FALSE,31
+addMammal,Giraffe,1986,5,17,Corn,Male,8,FALSE,FALSE,44
+addMammal,Giant Panda,1987,11,20,Carrot,Male,1,FALSE,FALSE,10
+addMammal,Gorilla,1973,6,28,Cucumber,Female,2,FALSE,FALSE,29
+addMammal,Baboon,2014,8,1,Peanuts,Male,3,FALSE,FALSE,29
+addMammal,Ape,1991,4,13,Corn,Female,4,FALSE,FALSE,0
+addMammal,Bear,1997,3,12,Carrot,Male,5,FALSE,FALSE,27
+addMammal,Elephant,1988,12,18,Cucumber,Female,6,FALSE,FALSE,30
+addMammal,Bison,1985,6,11,Peanuts,Male,7,FALSE,FALSE,48
+addMammal,Camel,1987,5,11,Corn,Female,1,FALSE,FALSE,1
+addMammal,Coyote,2001,9,8,Carrot,Male,2,FALSE,FALSE,6
+addMammal,Fox,2003,3,24,Cucumber,Female,3,FALSE,FALSE,45
+addMammal,Giraffe,1971,12,20,Peanuts,Male,4,FALSE,FALSE,11
+addMammal,Giant Panda,1997,9,26,Corn,Female,5,FALSE,FALSE,29
+addMammal,Gorilla,1979,2,10,Carrot,Male,6,FALSE,FALSE,38
+addMammal,Baboon,2017,7,14,Cucumber,Female,7,FALSE,FALSE,1
+addMammal,Ape,1977,5,9,Peanuts,Male,1,FALSE,FALSE,12
+addMammal,Bear,1972,11,15,Corn,Female,2,FALSE,FALSE,3
+addMammal,Beaver,2001,1,12,Carrot,Male,3,FALSE,FALSE,7
+addMammal,Bison,1990,12,10,Cucumber,Female,4,FALSE,FALSE,18
+addMammal,Camel,2006,2,13,Peanuts,Male,5,FALSE,FALSE,44
+addMammal,Coyote,1982,8,1,Corn,Female,6,FALSE,FALSE,3
+addMammal,Elephant,1983,6,14,Carrot,Male,7,FALSE,FALSE,6
+addMammal,Giraffe,2018,10,5,Cucumber,Male,6,FALSE,FALSE,5
+addMammal,Giant Panda,2019,9,22,Carrot,Female,7,FALSE,FALSE,27
+addMammal,Gorilla,1995,1,7,Cucumber,Male,1,FALSE,FALSE,29
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- ADD Reptile --,,,,,,,,,,
+addReptile,Crab,2005,9,25,Peanuts,Male,1,FALSE,TRUE,17
+addReptile,Crocodile,2014,3,23,Corn,Female,2,TRUE,FALSE,4
+addReptile,Frog,2015,1,14,Carrot,Male,3,FALSE,TRUE,36
+addReptile,Turtle,2010,10,16,Cucumber,Female,4,TRUE,TRUE,9
+addReptile,Cobra,2015,1,20,Peanuts,Male,5,FALSE,FALSE,22
+addReptile,Salamander,2002,7,23,Corn,Female,6,TRUE,TRUE,2
+addReptile,Snail,2005,11,3,Carrot,Male,7,FALSE,TRUE,0
+addReptile,Toad,2004,7,19,Cucumber,Female,1,TRUE,TRUE,4
+addReptile,Viper,2006,11,26,Peanuts,Male,2,FALSE,FALSE,15
+addReptile,Crab,2016,6,18,Corn,Female,3,TRUE,TRUE,26
+addReptile,Crocodile,2019,7,28,Carrot,Male,4,FALSE,FALSE,17
+addReptile,Frog,2000,9,10,Cucumber,Female,8,TRUE,TRUE,26
+addReptile,Turtle,2012,5,15,Peanuts,Male,6,FALSE,TRUE,30
+addReptile,Cobra,2007,2,15,Corn,Female,7,TRUE,FALSE,36
+addReptile,Salamander,2004,1,13,Carrot,Male,1,FALSE,TRUE,14
+addReptile,Snail,2004,5,22,Cucumber,Female,2,TRUE,TRUE,22
+addReptile,Toad,2007,1,1,Peanuts,Male,3,FALSE,TRUE,23
+addReptile,Viper,2006,2,21,Corn,Male,4,TRUE,FALSE,33
+addReptile,Crab,2016,11,9,Carrot,Female,5,FALSE,TRUE,37
+addReptile,Crocodile,2014,10,27,Cucumber,Male,6,TRUE,FALSE,20
+addReptile,Frog,2017,9,25,Peanuts,Male,7,FALSE,TRUE,26
+addReptile,Turtle,2006,5,23,Corn,Female,1,TRUE,TRUE,15
+addReptile,Cobra,2014,1,25,Carrot,Male,2,FALSE,FALSE,19
+addReptile,Salamander,2019,4,9,Cucumber,Female,3,TRUE,TRUE,20
+addReptile,Snail,2006,3,21,Peanuts,Male,4,FALSE,TRUE,40
+addReptile,Toad,2003,4,24,Corn,Female,5,TRUE,TRUE,8
+addReptile,Viper,2012,4,8,Carrot,Male,6,FALSE,FALSE,17
+addReptile,Crab,2009,10,7,Cucumber,Female,7,TRUE,TRUE,35
+addReptile,Crocodile,2002,7,19,Peanuts,Male,1,FALSE,FALSE,21
+addReptile,Frog,2017,9,20,Corn,Female,2,TRUE,TRUE,34
+addReptile,Turtle,2011,9,16,Carrot,Male,3,FALSE,TRUE,15
+addReptile,Cobra,2001,12,12,Cucumber,Female,4,TRUE,FALSE,16
+addReptile,Salamander,2019,6,4,Peanuts,Male,5,FALSE,TRUE,29
+addReptile,Snail,2013,6,22,Corn,Female,6,TRUE,TRUE,12
+addReptile,Toad,2020,8,16,Carrot,Male,7,FALSE,TRUE,30
+addReptile,Viper,2014,11,21,Cucumber,Female,1,TRUE,FALSE,37
+addReptile,Crab,2012,4,10,Peanuts,Male,8,FALSE,TRUE,33
+addReptile,Crocodile,2010,2,24,Corn,Male,3,TRUE,FALSE,28
+addReptile,Frog,2010,6,16,Carrot,Female,4,FALSE,TRUE,33
+addReptile,Turtle,2012,12,15,Cucumber,Male,5,TRUE,TRUE,25
+addReptile,Cobra,2012,12,2,Peanuts,Male,6,FALSE,FALSE,11
+addReptile,Salamander,2007,10,1,Corn,Female,7,TRUE,TRUE,4
+addReptile,Snail,2003,12,18,Carrot,Male,1,FALSE,TRUE,2
+addReptile,Toad,2000,1,12,Cucumber,Female,2,TRUE,TRUE,6
+addReptile,Viper,2001,4,8,Peanuts,Male,3,FALSE,FALSE,3
+addReptile,Crab,2015,7,27,Corn,Female,4,TRUE,TRUE,19
+addReptile,Crocodile,2006,1,21,Carrot,Male,5,FALSE,FALSE,9
+addReptile,Frog,2002,5,9,Cucumber,Female,6,TRUE,TRUE,19
+addReptile,Turtle,2006,3,1,Peanuts,Male,7,FALSE,TRUE,39
+addReptile,Cobra,2017,3,27,Corn,Female,1,TRUE,FALSE,34
+addReptile,Salamander,2007,12,17,Carrot,Male,2,FALSE,TRUE,29
+addReptile,Snail,2017,7,20,Cucumber,Female,3,TRUE,TRUE,16
+addReptile,Toad,2014,10,11,Peanuts,Male,4,FALSE,TRUE,28
+addReptile,Viper,2017,7,28,Corn,Female,5,TRUE,FALSE,15
+addReptile,Crab,2016,5,14,Carrot,Male,6,FALSE,TRUE,11
+addReptile,Crocodile,2005,11,28,Cucumber,Female,7,TRUE,FALSE,5
+addReptile,Frog,2019,10,12,Peanuts,Male,1,FALSE,TRUE,38
+addReptile,Turtle,2017,5,19,Corn,Male,2,TRUE,TRUE,11
+addReptile,Cobra,2004,1,13,Carrot,Female,3,FALSE,FALSE,37
+addReptile,Salamander,2015,10,13,Cucumber,Male,4,TRUE,TRUE,14
+addReptile,Snail,2000,12,2,Peanuts,Male,5,FALSE,TRUE,2
+addReptile,Toad,2005,3,5,Corn,Female,6,TRUE,TRUE,28
+addReptile,Viper,2000,7,27,Carrot,Male,7,FALSE,FALSE,16
+addReptile,Crab,2015,3,23,Cucumber,Female,1,TRUE,TRUE,35
+addReptile,Crocodile,2003,6,14,Peanuts,Male,2,FALSE,FALSE,21
+addReptile,Frog,2011,8,27,Corn,Female,3,FALSE,TRUE,35
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- ADD Bird --,,,,,,,,,,
+addBird,Crow,2017,7,14,Carrot,Female,1,TRUE,FALSE,26
+addBird,Duck,2018,2,27,Cucumber,Male,8,FALSE,TRUE,14
+addBird,Eagle,2002,8,18,Peanuts,Female,3,TRUE,FALSE,17
+addBird,Falcon,2001,1,15,Corn,Male,4,TRUE,TRUE,7
+addBird,Flamingo,2003,12,10,Carrot,Female,5,FALSE,FALSE,20
+addBird,Hawk,2014,2,21,Cucumber,Male,6,TRUE,TRUE,20
+addBird,Owl,2001,2,16,Peanuts,Female,7,TRUE,FALSE,27
+addBird,Pelican,2010,10,10,Corn,Male,1,TRUE,TRUE,15
+addBird,Penguin,2007,2,25,Corn,Male,2,FALSE,FALSE,15
+addBird,Crow,2013,10,8,Carrot,Female,3,TRUE,TRUE,6
+addBird,Duck,2013,1,28,Cucumber,Male,4,FALSE,FALSE,28
+addBird,Eagle,2011,7,8,Peanuts,Female,5,TRUE,TRUE,27
+addBird,Falcon,2020,7,13,Corn,Male,6,TRUE,FALSE,29
+addBird,Flamingo,2006,7,2,Carrot,Female,7,FALSE,TRUE,11
+addBird,Hawk,2003,6,20,Cucumber,Male,8,TRUE,FALSE,15
+addBird,Owl,2011,9,25,Peanuts,Female,2,TRUE,TRUE,10
+addBird,Pelican,2012,8,23,Corn,Male,3,TRUE,FALSE,28
+addBird,Penguin,2004,4,16,Corn,Female,4,FALSE,TRUE,18
+addBird,Crow,2016,9,11,Carrot,Male,5,TRUE,FALSE,12
+addBird,Duck,2007,10,20,Cucumber,Male,6,FALSE,TRUE,2
+addBird,Eagle,2012,11,4,Peanuts,Female,7,TRUE,FALSE,4
+addBird,Falcon,2012,8,26,Corn,Male,1,TRUE,TRUE,24
+addBird,Flamingo,2011,2,2,Carrot,Female,2,FALSE,FALSE,19
+addBird,Hawk,2007,6,3,Cucumber,Male,3,TRUE,TRUE,15
+addBird,Owl,2015,9,3,Peanuts,Female,4,TRUE,FALSE,18
+addBird,Pelican,2020,1,16,Corn,Male,5,TRUE,TRUE,24
+addBird,Penguin,2005,5,2,Corn,Female,6,FALSE,FALSE,13
+addBird,Crow,2013,1,14,Carrot,Male,7,TRUE,TRUE,0
+addBird,Duck,2010,7,9,Cucumber,Female,1,FALSE,FALSE,26
+addBird,Eagle,2019,5,2,Peanuts,Male,2,TRUE,TRUE,3
+addBird,Falcon,2019,5,6,Corn,Male,3,TRUE,FALSE,1
+addBird,Flamingo,2011,1,27,Carrot,Female,4,FALSE,TRUE,19
+addBird,Hawk,2004,7,25,Cucumber,Male,5,TRUE,FALSE,27
+addBird,Owl,2016,12,17,Peanuts,Female,6,TRUE,TRUE,20
+addBird,Pelican,2009,5,12,Corn,Male,7,TRUE,FALSE,14
+addBird,Penguin,2013,5,21,Corn,Female,1,FALSE,TRUE,26
+addBird,Crow,2011,2,15,Carrot,Male,2,TRUE,FALSE,6
+addBird,Duck,2005,6,11,Cucumber,Female,3,FALSE,TRUE,2
+addBird,Eagle,2004,9,5,Peanuts,Male,4,TRUE,FALSE,25
+addBird,Falcon,2006,10,16,Corn,Female,5,TRUE,TRUE,0
+addBird,Flamingo,2008,10,2,Carrot,Male,6,FALSE,FALSE,5
+addBird,Hawk,2004,5,8,Cucumber,Male,7,TRUE,TRUE,13
+addBird,Owl,2006,11,16,Peanuts,Female,1,TRUE,FALSE,5
+addBird,Pelican,2016,7,28,Corn,Male,2,TRUE,TRUE,7
+addBird,Penguin,2012,4,18,Corn,Female,3,FALSE,FALSE,0
+addBird,Crow,2003,4,13,Carrot,Male,8,TRUE,TRUE,23
+addBird,Duck,2015,5,7,Cucumber,Female,5,FALSE,FALSE,2
+addBird,Eagle,2017,4,10,Peanuts,Male,6,TRUE,TRUE,25
+addBird,Falcon,2008,8,8,Corn,Female,7,TRUE,FALSE,19
+addBird,Flamingo,2017,5,7,Carrot,Male,1,FALSE,TRUE,6
+addBird,Hawk,2013,10,26,Cucumber,Female,2,TRUE,FALSE,26
+addBird,Owl,2017,9,20,Peanuts,Male,3,TRUE,TRUE,25
+addBird,Pelican,2011,9,8,Corn,Male,4,TRUE,FALSE,1
+addBird,Penguin,2013,11,19,Corn,Female,5,FALSE,TRUE,19
+addBird,Crow,2016,11,27,Carrot,Male,6,TRUE,FALSE,5
+addBird,Duck,2003,6,15,Cucumber,Female,7,FALSE,TRUE,4
+addBird,Eagle,2017,1,8,Peanuts,Male,1,TRUE,FALSE,26
+addBird,Falcon,2012,6,23,Corn,Female,2,TRUE,TRUE,7
+addBird,Flamingo,2015,6,25,Carrot,Male,3,FALSE,FALSE,5
+addBird,Hawk,2017,12,27,Cucumber,Female,4,TRUE,TRUE,3
+addBird,Owl,2001,5,7,Peanuts,Male,5,TRUE,FALSE,16
+addBird,Pelican,2005,4,9,Corn,Female,6,TRUE,TRUE,25
+addBird,Penguin,2012,12,10,Corn,Male,7,FALSE,FALSE,7
+addBird,Crow,2011,7,13,Carrot,Male,1,TRUE,TRUE,6
+addBird,Duck,2008,9,20,Cucumber,Female,2,FALSE,FALSE,10
+addBird,Eagle,2017,2,14,Peanuts,Male,3,TRUE,FALSE,18
+space,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+-- ADD Visitors --,,,,,,,,,,
+,,,,,,,,,,
+addVisitor,Izzy,Clutram,1974,9,18,Male,1,Hever,37,7
+addVisitor,Emilia,O'Nion,1946,12,19,Female,2,Hever,36,24
+addVisitor,Kiele,Heball,1985,12,25,Male,3,Hever,15,41
+addVisitor,Garvin,Blant,2017,3,12,Female,4,Hever,7,42
+addVisitor,Elyssa,Larsen,1998,1,5,Male,8,Hever,13,7
+addVisitor,Evelyn,Dureden,1964,9,20,Female,6,Hever,22,27
+addVisitor,Jacquelyn,Sibbe,1943,6,22,Male,7,Hever,14,40
+addVisitor,Jethro,Kernell,1943,2,10,Female,1,Hever,5,22
+addVisitor,Redford,O' Scallan,2015,6,21,Male,2,Hever,40,6
+addVisitor,Wade,Diggar,1981,8,13,Female,3,Hever,36,14
+addVisitor,Lemard,Tawton,1952,11,13,Male,4,Hever,19,15
+addVisitor,Lemar,Tawton,1982,8,5,Female,5,Hever,33,9
+addVisitor,Zonnya,Gladman,2001,4,21,Male,6,Hever,7,36
+addVisitor,Vikky,Acreman,1982,8,7,Female,7,Hever,7,23
+addVisitor,Benjie,O'Garmen,1960,2,1,Male,1,Hever,10,15
+addVisitor,Yoshiko,Roder,1948,2,7,Female,2,Hever,4,24
+addVisitor,Adelaida,Inkle,1999,7,14,Male,3,Haifa_Student,9,25
+addVisitor,Odetta,Sprulls,2000,10,12,Female,4,Haifa_Student,46,39
+addVisitor,Patin,Gaitskell,1957,2,15,Male,5,Hever,26,30
+addVisitor,Thelma,Mannin,1984,10,5,Female,6,Hever,15,1
+addVisitor,Jim,De Coursey,1951,7,17,Male,7,Hever,35,17
+addVisitor,Zacherie,Redhole,2002,11,24,Female,1,Hever,2,30
+addVisitor,Patten,Dyos,1950,10,4,Male,2,Hever,32,24
+addVisitor,Corrie,Berkeley,1992,10,21,Female,8,Hever,46,15
+addVisitor,Patrica,Weaben,1948,4,18,Male,4,Hever,22,2
+addVisitor,Orlyna,Dosset,1969,6,3,Female,5,Hever,19,33
+addVisitor,Orly,Dossett,1970,8,3,Male,6,Hever,32,42
+addVisitor,Trudie,Milsom,1945,2,1,Female,7,Hever,48,22
+addVisitor,Susannah,Sherrett,2001,1,8,Male,1,Beyahad,28,27
+addVisitor,Mayor,Spurret,1992,10,25,Female,2,Beyahad,23,26
+addVisitor,Benton,Dibbin,1977,12,4,Male,3,Beyahad,5,20
+addVisitor,Kathryn,Crenshaw,1950,8,14,Female,4,Beyahad,36,46
+addVisitor,Vasilis,Gallen,1967,6,1,Male,5,Beyahad,17,3
+addVisitor,Corby,Minchinden,1998,10,9,Female,6,Beyahad,29,31
+addVisitor,Liv,Bretland,1970,9,22,Male,7,Beyahad,32,50
+addVisitor,Glen,Yerill,1986,5,5,Female,1,Beyahad,17,17
+addVisitor,Angelika,Fahy,1949,3,5,Male,2,Beyahad,14,42
+addVisitor,Adelaida,Naismith,1962,1,19,Female,3,Beyahad,42,41
+addVisitor,Wainwright,Picopp,1965,4,13,Male,4,Beyahad,45,30
+addVisitor,Melody,Cavozzi,1991,11,14,Female,5,Beyahad,2,14
+addVisitor,Hervey,Ogg,1966,4,15,Male,6,Beyahad,40,45
+addVisitor,Tonnie,Cushelly,1989,1,28,Female,7,Behatzdaa,16,45
+addVisitor,Gavan,Breeton,2018,11,28,Male,8,Behatzdaa,39,14
+addVisitor,Deloria,Pfaff,1947,12,3,Female,2,Behatzdaa,41,37
+addVisitor,Sunny,Gogarti,1976,6,28,Male,3,Behatzdaa,26,2
+addVisitor,Sunny,Gogarty,2003,4,17,Female,4,Haifa_Student,48,16
+addVisitor,Edin,Harburtson,1960,11,13,Male,5,Behatzdaa,28,4
+addVisitor,Giff,Stares,1956,2,10,Female,6,Behatzdaa,15,47
+addVisitor,Idelle,Winchurch,2003,2,27,Male,7,Haifa_Student,42,6
+addVisitor,Sherwynd,Franck,1996,11,4,Female,1,Behatzdaa,4,24
+addVisitor,Jackson,Haveline,1955,9,15,Male,2,Behatzdaa,35,40
+addVisitor,Jackson,Havelineg,2015,7,3,Female,3,Behatzdaa,10,38
+addVisitor,Ardra,Sterley,1996,10,8,Male,4,Haifa_Student,17,15
+addVisitor,Dalt,Ream,2004,3,1,Female,5,Behatzdaa,11,39
+addVisitor,Tootsie,Baughan,2005,1,1,Male,8,Behatzdaa,7,49
+addVisitor,Wendell,Kilmary,1974,8,10,Female,7,Behatzdaa,2,23
+addVisitor,Durant,Klousner,1972,5,11,Male,1,Behatzdaa,21,12
+addVisitor,Donaugh,Magne,1979,10,11,Female,2,Max,11,40
+addVisitor,Jakob,Swindlehurst,1983,7,16,Male,3,Max,25,13
+addVisitor,Coretta,Earie,2011,5,26,Female,4,Max,24,46
+addVisitor,Gustav,Freemantle,1980,6,20,Male,5,Haifa_Student,12,15
+addVisitor,Melita,Basnett,1988,12,14,Female,6,Haifa_Student,47,35
+addVisitor,Wendell,MacLoughlin,1981,6,3,Male,7,Max,2,42
+addVisitor,Kaci,Goshaw,1952,4,3,Female,1,Max,48,29
+addVisitor,Kacy,Goshawk,1999,4,19,Male,2,Max,20,3
+addVisitor,Clemmie,Bugg,1976,11,10,Female,3,Kranot,25,11
+addVisitor,Lenka,Necolds,1946,2,26,Male,4,Kranot,33,40
+addVisitor,Candra,Harvett,1985,2,10,Female,5,Kranot,37,24
+addVisitor,Zaria,Niemetz,1948,11,28,Male,6,Kranot,28,43
+addVisitor,Chicky,Showte,1952,2,23,Female,7,Kranot,18,32
+addVisitor,Tally,Brazenor,1972,5,4,Male,1,Kranot,42,10
+addVisitor,Alina,Fassan,1994,9,20,Female,2,Haifa_Student,14,35
+addVisitor,Corrina,Charter,2017,5,8,Male,3,Kranot,37,40
+addVisitor,Rodolphe,Patient,1975,3,20,Female,4,Haifa_Student,12,34
+addVisitor,Maryjane,Jiracek,2010,9,27,Male,5,Kranot,18,34
+addVisitor,Danila,Barth,1947,1,15,Female,6,Kranot,48,40
+addVisitor,Kin,Willcock,1960,12,4,Male,7,Kranot,44,9
+addVisitor,Rhianna,Greep,1961,12,6,Female,1,Kranot,48,49
+addVisitor,Katharyn,Havock,2004,1,22,Male,2,Kranot,15,20
+addVisitor,Brent,Brownbridge,1966,2,8,Female,3,Kranot,18,43
+addVisitor,Philipa,Woodroffe,1994,1,13,Male,4,Haifa_Student,4,5
+addVisitor,Carmita,Punshon,2014,11,26,Female,5,No_Discount,4,46
+addVisitor,De Bellis,Annadiane,1942,4,7,Male,6,No_Discount,40,1
+addVisitor,Backwell,Retha,1954,8,23,Female,7,No_Discount,31,17
+addVisitor,Woolgar,Corey,1964,1,16,Male,1,No_Discount,5,7
+addVisitor,Kobsch,Ricki,2009,10,28,Female,2,No_Discount,9,33
+addVisitor,Waterworth,Upton,1967,6,18,Male,3,No_Discount,38,49
+addVisitor,Merwede,Francene,1981,2,10,Female,4,No_Discount,44,17
+addVisitor,Goman,Erina,1959,5,4,Male,5,No_Discount,49,5
+addVisitor,Gorini,Sloane,1963,10,16,Female,6,No_Discount,16,23
+addVisitor,Right,Rlick,1992,12,12,Male,7,No_Discount,8,11
+addVisitor,Norrie,Ferenczi,1968,4,1,Female,1,No_Discount,21,39
+addVisitor,Rikki,Baptista,1946,2,11,Male,2,No_Discount,15,8
+addVisitor,Weber,Longfoot,1951,1,24,Female,3,No_Discount,36,3
+addVisitor,Freddi,Piddick,1968,12,15,Male,4,No_Discount,50,26
+addVisitor,Frederigo,Harbard,2003,7,8,Female,5,No_Discount,25,28
+addVisitor,Perla,Wraighte,2002,7,27,Male,6,No_Discount,7,45
+addVisitor,Perl,Wraighter,1950,5,13,Female,7,No_Discount,34,16
+addVisitor,Deeanne,Toffolo,1983,5,25,Male,7,No_Discount,30,33
+addVisitor,Chrotoem,Cornfoot,1961,9,7,Female,1,No_Discount,30,44
+addVisitor,Hollisa,Hubery,1970,3,6,Male,2,No_Discount,38,22
+addVisitor,Hollis,Huberyia,2001,8,20,Female,3,Haifa_Student,13,25
+addVisitor,Orelee,Skirveni,1969,10,4,Male,4,No_Discount,26,43
+addVisitor,Oreleet,Skirven,1990,10,27,Female,5,Haifa_Student,9,30
+addVisitor,Teirtza,Toma,1956,3,24,Male,6,No_Discount,13,11
+addVisitor,Euginer,Skates,1952,3,3,Female,7,No_Discount,25,11
+addVisitor,Eugine,Skatesa,1977,12,22,Male,1,No_Discount,17,9
+addVisitor,Tirrell,Leyninye,2008,2,24,Female,2,No_Discount,18,6
+addVisitor,Doria,Soles,1973,10,13,Male,3,No_Discount,46,25
+addVisitor,Raimundo,Brodeau,2018,10,10,Female,4,No_Discount,33,24
+addVisitor,Jolynn,Stainburn,1955,2,6,Male,5,No_Discount,11,49
+addVisitor,Ashli,Todari,1969,10,18,Female,6,No_Discount,32,34
+addVisitor,Timothea,Croft,1943,3,25,Male,7,No_Discount,12,42
+addVisitor,Lib,O'Cooney,1957,4,2,Female,1,No_Discount,34,24
+addVisitor,Alastair,Stare,2001,3,14,Male,2,Haifa_Student,20,48
+addVisitor,Syd,Trime,1947,9,12,Female,3,No_Discount,29,12
+addVisitor,Skipper,Monshall,1961,2,25,Male,4,No_Discount,15,45
+addVisitor,Emlent,Roddick,1962,8,4,Female,5,No_Discount,32,34
+addVisitor,Emlen,Roddick,1965,4,3,Male,8,No_Discount,16,22
+addVisitor,Jacenta,Durber,1956,10,13,Female,7,No_Discount,29,45
+addVisitor,Shawn,Huggins,2015,6,3,Male,1,No_Discount,37,12
+addVisitor,Katherina,Castleton,1998,9,14,Female,2,No_Discount,43,1
+addVisitor,Osmond,Boswood,2005,12,16,Male,3,No_Discount,2,24
+addVisitor,Connie,Kleuer,1973,5,16,Female,4,No_Discount,13,23
+addVisitor,Retha,Backwell,2018,6,1,Male,5,No_Discount,9,44
+addVisitor,Corey,Woolgar,2017,9,11,Female,6,No_Discount,8,47
+addVisitor,Ricki,Kobsch,1955,7,15,Male,7,No_Discount,46,35
+addVisitor,Upton,Waterworth,1968,2,25,Female,1,No_Discount,32,36
+addVisitor,Francene,Merwede,1943,6,19,Male,2,No_Discount,35,25
+addVisitor,Erina,Goman,1992,8,3,Female,3,Haifa_Student,19,46
+addVisitor,Sloane,Gorini,2007,9,22,Male,4,No_Discount,36,4
+addVisitor,Idalina,Mcwhinney,1943,2,9,Female,5,No_Discount,23,29
+addVisitor,Cody,Raspin,1948,7,2,Male,6,No_Discount,47,49
+addVisitor,Moina,Reeders,2018,11,16,Female,7,No_Discount,3,15
+addVisitor,Trey,Claybourne,1962,6,17,Male,1,No_Discount,18,5
+addVisitor,Ted,Harverson,1973,6,17,Female,2,No_Discount,37,29
+addVisitor,Rea,Loughan,1950,5,14,Male,3,No_Discount,31,29
+addVisitor,Robena,Ballister,1990,1,7,Female,4,Haifa_Student,18,42
+addVisitor,Ronnie,Adhams,1975,5,27,Male,5,No_Discount,15,6
+addVisitor,Preston,Franzettoini,1942,5,11,Female,6,No_Discount,13,35
+addVisitor,Blair,Huygens,1967,7,17,Male,7,No_Discount,47,27
+addVisitor,Celestyna,Marlor,1949,2,13,Female,1,No_Discount,41,6
+addVisitor,Rriocard,Beattie,1995,8,11,Male,2,No_Discount,13,31
+addVisitor,Sondra,Goodlud,1942,10,17,Female,3,No_Discount,44,22
+addVisitor,Laetitia,Dalligan,1968,1,16,Male,4,No_Discount,16,44
+addVisitor,Gerri,Cicullo,2002,9,6,Female,5,No_Discount,20,25
+addVisitor,Chancey,MacDougal,1979,5,11,Male,6,No_Discount,15,38
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- ADD Employee --,,,,,,,,,,
+addEmployee,Mead,Bossons,1974,12,9,Male,1,Vet,27,48
+addEmployee,Ibbie,Penas,1979,3,8,Female,2,Section_Supervise,19,28
+addEmployee,Enos,Stanmore,1966,10,1,Male,3,Administrative,23,15
+addEmployee,Huey,Lumbers,1987,7,7,Female,8,Administrative,11,6
+addEmployee,Drew,Titman,1963,2,3,Male,5,Administrative,38,25
+addEmployee,Garnet,Carson,1985,10,25,Female,6,Administrative,46,10
+addEmployee,Evania,Pechell,1977,3,1,Male,7,Administrative,13,34
+addEmployee,Joela,Weddeburn - Scrimgeour,1988,11,23,Female,1,Administrative,40,4
+addEmployee,Michelina,Boynton,1968,11,17,Unknown,2,Administrative,17,7
+addEmployee,Fritz,Glascott,1967,7,12,Male,3,Administrative,48,24
+addEmployee,Sterne,Colchett,1961,6,9,Female,4,Administrative,44,42
+addEmployee,Flora,Currin,1991,5,28,Male,5,Administrative,37,19
+addEmployee,Flemming,Broderick,1993,5,15,Female,6,Administrative,44,30
+addEmployee,Pincus,Balchen,1995,4,19,Male,7,Administrative,10,49
+addEmployee,Roz,Pipkin,1991,3,5,Female,1,Section_Supervise,36,32
+addEmployee,Trip,Dyter,1964,11,23,Male,2,Vet,51,42
+addEmployee,Kermie,McDonnell,1994,10,19,Female,3,Ticket_Seller,28,20
+addEmployee,Prescott,Navarijo,1986,8,2,Unknown,4,Ticket_Seller,37,39
+addEmployee,Waiter,Fillan,1966,2,25,Male,5,Ticket_Seller,31,37
+addEmployee,Allie,Heberden,1980,7,11,Female,6,Ticket_Seller,48,22
+addEmployee,Kienan,McReedy,1973,1,11,Male,7,Ticket_Seller,12,33
+addEmployee,Audrey,Pool,1969,6,2,Female,1,Ticket_Seller,28,38
+addEmployee,Jonah,Mannakee,1971,9,25,Male,2,Ticket_Seller,36,18
+addEmployee,Kerrill,Dufer,1975,12,6,Female,3,Vet,27,6
+addEmployee,Terri-jo,Moylan,1982,3,18,Male,4,Section_Supervise,36,20
+addEmployee,Godard,Romao,1962,5,19,Female,5,Ticket_Seller,48,30
+addEmployee,Garreth,Gay,1962,11,13,Unknown,6,Ticket_Seller,12,17
+addEmployee,Karlotte,Tomlett,1997,3,18,Male,7,Ticket_Seller,51,27
+addEmployee,Bekki,Dorber,1968,9,2,Female,1,SnackBar_Seller,6,44
+addEmployee,Robers,Edmund,1990,5,16,Male,2,Ticket_Seller,26,8
+addEmployee,Reinhold,Marciskewski,1968,10,5,Female,3,Section_Supervise,20,28
+addEmployee,Sheri,Danhel,1981,11,23,Male,4,Vet,33,51
+addEmployee,Morrie,Painter,1989,6,2,Female,5,Section_Supervise,16,47
+addEmployee,Errol,Bagnall,1963,7,15,Male,6,Section_Supervise,19,44
+addEmployee,Dionis,Twitchings,1981,6,21,Female,7,Section_Supervise,13,31
+addEmployee,Marietta,Bithell,1978,4,2,Unknown,1,Therapist,29,40
+addEmployee,Elfrida,Joust,1977,4,13,Male,2,Therapist,2,18
+addEmployee,Claus,Jaffray,1963,8,24,Female,3,Therapist,14,46
+addEmployee,Harley,Dressell,1976,1,24,Male,4,Therapist,40,13
+addEmployee,Ricky,Turle,1994,8,2,Female,5,Vet,34,20
+addEmployee,Edyth,Daoust,1988,8,11,Male,6,Therapist,43,4
+addEmployee,Nerita,Comusso,1999,1,25,Female,7,Therapist,40,19
+addEmployee,Jordon,Kincade,1988,12,27,Male,1,Therapist,13,8
+addEmployee,Torr,Knok,1968,2,13,Female,2,Therapist,36,46
+addEmployee,Stefano,Meininger,1979,4,15,Unknown,3,Therapist,9,4
+addEmployee,Rogers,Mackneis,1994,4,15,Male,4,Therapist,42,46
+addEmployee,Lena,Simionescu,1990,6,13,Female,5,Therapist,7,13
+addEmployee,Oby,Kitto,1994,6,20,Male,6,Vet,41,19
+addEmployee,Gert,Crunkhorn,1968,11,8,Female,7,Therapist,39,21
+addEmployee,Merridie,Brockman,1997,6,21,Male,1,Therapist,25,40
+addEmployee,Shepherd,Rookesby,1991,2,18,Female,2,Therapist,24,49
+addEmployee,Kelci,Gouinlock,1978,2,4,Male,3,Therapist,46,23
+addEmployee,Gianina,Swaden,1960,1,27,Female,4,Therapist,5,18
+addEmployee,Gabe,Hebborne,1962,6,19,Unknown,5,Therapist,14,42
+addEmployee,Hope,Trussman,1968,11,20,Male,6,Therapist,46,36
+addEmployee,Annabell,Caygill,1966,9,27,Female,7,Vet,50,10
+addEmployee,Colline,Heinel,1984,4,27,Male,1,Therapist,6,14
+addEmployee,Bliss,Boanas,1998,9,3,Female,2,Cleaner,10,13
+addEmployee,Carmine,Leaburn,1972,5,27,Male,3,Cleaner,21,49
+addEmployee,Latrina,Denerley,1965,11,28,Female,4,Cleaner,39,22
+addEmployee,Sayre,Daviot,1971,9,15,Male,5,Cleaner,45,40
+addEmployee,Skippy,Speak,1975,10,14,Female,6,Cleaner,40,50
+addEmployee,Aloise,Airs,1983,1,10,Unknown,7,Cleaner,44,12
+addEmployee,Bertie,Rawlison,1977,11,27,Male,1,Vet,49,34
+addEmployee,Camey,Waplinton,1970,3,1,Female,2,SnackBar_Seller,47,1
+addEmployee,Olivia,Moffett,1991,11,28,Male,3,Cleaner,37,39
+addEmployee,Hally,Montel,1999,9,27,Female,4,Cleaner,49,31
+addEmployee,Riobard,Eddisforth,1962,4,19,Male,5,Cleaner,46,11
+addEmployee,Darsey,Elsom,1983,4,28,Female,6,Cleaner,19,25
+addEmployee,Darsey,Elsom,1960,9,2,Male,7,Cleaner,35,30
+addEmployee,Rene,Whelband,1973,7,16,Female,1,Cleaner,7,3
+addEmployee,Nonnah,Andrag,1960,9,5,Unknown,2,Vet,20,7
+addEmployee,Carey,Wason,1984,9,26,Male,3,SnackBar_Seller,35,38
+addEmployee,Colline,McMonies,1968,6,10,Female,8,SnackBar_Seller,16,27
+addEmployee,Melva,Schollick,1996,1,26,Male,5,SnackBar_Seller,44,40
+addEmployee,Melvand,Schollic,1960,9,17,Female,6,SnackBar_Seller,19,46
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- ADD Snack--,,,,,,,,,,
+addSnack,Bamba,Snack,TRUE,8,1,TRUE,TRUE,FALSE,,
+addSnack,Bisli,Snack,TRUE,8,2,FALSE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,3,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,4,FALSE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,6,TRUE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,1,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,3,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,4,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,5,TRUE,FALSE,FALSE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,6,FALSE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,1,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,2,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,3,TRUE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,4,TRUE,TRUE,FALSE,,
+addSnack,Bisli,Snack,TRUE,8,5,FALSE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,6,TRUE,TRUE,FALSE,,
+addSnack,Popcorn,Snack,TRUE,10,7,FALSE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,1,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,2,TRUE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,4,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,6,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,7,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,1,TRUE,FALSE,TRUE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,2,FALSE,TRUE,FALSE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,4,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,5,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,6,TRUE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,1,FALSE,TRUE,FALSE,,
+addSnack,Apropo,Snack,TRUE,5,2,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,3,FALSE,TRUE,FALSE,,
+addSnack,Coca Cola,Drink,TRUE,8,4,TRUE,TRUE,FALSE,,
+addSnack,Diet Cola,Drink,FALSE,8,5,TRUE,FALSE,FALSE,,
+addSnack,Fanta,Drink,TRUE,8,6,TRUE,TRUE,FALSE,,
+addSnack,Water,Drink,FALSE,5,7,FALSE,FALSE,FALSE,,
+addSnack,Sprite,Drink,TRUE,8,1,TRUE,TRUE,FALSE,,
+addSnack,Hot Dog,Meat,TRUE,20,2,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,3,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,4,TRUE,FALSE,TRUE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,5,FALSE,TRUE,FALSE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,7,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,1,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,2,TRUE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,4,FALSE,TRUE,FALSE,,
+addSnack,Apropo,Snack,TRUE,5,5,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,6,FALSE,TRUE,FALSE,,
+addSnack,Coca Cola,Drink,TRUE,8,7,TRUE,TRUE,FALSE,,
+addSnack,Diet Cola,Drink,FALSE,8,1,TRUE,FALSE,FALSE,,
+addSnack,Fanta,Drink,TRUE,8,2,TRUE,TRUE,FALSE,,
+addSnack,Water,Drink,FALSE,5,3,FALSE,FALSE,FALSE,,
+addSnack,Sprite,Drink,TRUE,8,4,TRUE,TRUE,FALSE,,
+addSnack,Hot Dog,Meat,TRUE,20,5,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,6,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,7,FALSE,FALSE,FALSE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,1,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,3,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,4,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,5,FALSE,FALSE,FALSE,,
+addSnack,Bamba,Snack,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,1,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,2,TRUE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,4,FALSE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,6,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,1,TRUE,TRUE,FALSE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,2,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,3,FALSE,FALSE,TRUE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,4,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,6,TRUE,TRUE,FALSE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,7,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,1,FALSE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,4,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,5,TRUE,TRUE,FALSE,,
+addSnack,Coca Cola,Drink,TRUE,8,6,TRUE,TRUE,FALSE,,
+addSnack,Diet Cola,Drink,FALSE,8,7,FALSE,FALSE,FALSE,,
+addSnack,Fanta,Drink,TRUE,8,1,TRUE,TRUE,FALSE,,
+addSnack,Water,Drink,FALSE,5,2,FALSE,FALSE,FALSE,,
+addSnack,Sprite,Drink,TRUE,8,3,TRUE,TRUE,FALSE,,
+addSnack,Hot Dog,Meat,TRUE,20,4,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,5,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,6,FALSE,FALSE,FALSE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,7,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,1,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,2,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,3,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,4,FALSE,FALSE,FALSE,,
+addSnack,Bamba,Snack,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,7,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,1,TRUE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,3,FALSE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,4,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,5,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,7,TRUE,TRUE,FALSE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,1,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,2,FALSE,FALSE,TRUE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,3,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,4,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,5,TRUE,TRUE,FALSE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,6,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,7,FALSE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,1,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,3,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,4,TRUE,TRUE,FALSE,,
+addSnack,Coca Cola,Drink,TRUE,8,5,TRUE,TRUE,FALSE,,
+addSnack,Diet Cola,Drink,FALSE,8,6,FALSE,FALSE,FALSE,,
+addSnack,Fanta,Drink,TRUE,8,7,TRUE,TRUE,FALSE,,
+addSnack,Water,Drink,FALSE,5,1,FALSE,FALSE,FALSE,,
+addSnack,Sprite,Drink,TRUE,8,2,TRUE,TRUE,FALSE,,
+addSnack,Hot Dog,Meat,TRUE,20,3,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,4,TRUE,TRUE,FALSE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,5,FALSE,FALSE,TRUE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,6,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,1,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,2,TRUE,TRUE,FALSE,,
+addSnack,Toast,Vegiterian,FALSE,25,3,FALSE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,4,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,6,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,7,TRUE,TRUE,FALSE,,
+addSnack,Coca Cola,Drink,TRUE,8,1,TRUE,TRUE,FALSE,,
+addSnack,Diet Cola,Drink,FALSE,8,2,FALSE,FALSE,FALSE,,
+addSnack,Fanta,Drink,TRUE,8,3,TRUE,TRUE,FALSE,,
+addSnack,Water,Drink,FALSE,5,4,FALSE,FALSE,FALSE,,
+addSnack,Sprite,Drink,TRUE,8,5,TRUE,TRUE,FALSE,,
+addSnack,Hot Dog,Meat,TRUE,20,6,TRUE,TRUE,FALSE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,7,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,1,FALSE,FALSE,TRUE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,2,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,3,TRUE,TRUE,FALSE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,4,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,5,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,6,FALSE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,1,TRUE,TRUE,FALSE,,
+addSnack,Apropo,Snack,TRUE,5,2,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,3,TRUE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,4,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,5,FALSE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,7,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,1,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,2,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,3,TRUE,TRUE,FALSE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,4,FALSE,FALSE,TRUE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,5,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,7,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,1,TRUE,TRUE,FALSE,,
+addSnack,Toast,Vegiterian,FALSE,25,2,FALSE,FALSE,TRUE,,
+addSnack,Bamba,Snack,TRUE,8,3,TRUE,TRUE,FALSE,,
+addSnack,Bisli,Snack,TRUE,8,4,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,5,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,6,TRUE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,1,FALSE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,3,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,4,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,5,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,6,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,7,FALSE,FALSE,FALSE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,1,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,3,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,4,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,5,FALSE,FALSE,FALSE,,
+addSnack,Bamba,Snack,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,1,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,2,TRUE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,4,FALSE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,6,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,7,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,1,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,2,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,3,FALSE,FALSE,FALSE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,4,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,6,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,7,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,1,FALSE,FALSE,FALSE,,
+addSnack,Bamba,Snack,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,4,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,5,TRUE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,7,FALSE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,1,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,2,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,3,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,4,TRUE,TRUE,TRUE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,5,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,6,FALSE,FALSE,FALSE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,7,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,1,TRUE,TRUE,TRUE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,2,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,3,TRUE,TRUE,TRUE,,
+addSnack,Toast,Vegiterian,FALSE,25,4,FALSE,FALSE,FALSE,,
+addSnack,Bamba,Snack,TRUE,8,5,TRUE,TRUE,TRUE,,
+addSnack,Bisli,Snack,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Apropo,Snack,TRUE,5,7,TRUE,TRUE,TRUE,,
+addSnack,Popcorn,Snack,TRUE,10,1,TRUE,TRUE,TRUE,,
+addSnack,Coca Cola,Drink,TRUE,8,2,TRUE,TRUE,TRUE,,
+addSnack,Diet Cola,Drink,FALSE,8,3,FALSE,FALSE,TRUE,,
+addSnack,Fanta,Drink,TRUE,8,4,TRUE,TRUE,TRUE,,
+addSnack,Water,Drink,FALSE,5,5,FALSE,FALSE,TRUE,,
+addSnack,Sprite,Drink,TRUE,8,6,TRUE,TRUE,TRUE,,
+addSnack,Hot Dog,Meat,TRUE,20,7,TRUE,TRUE,FALSE,,
+addSnack,Meat Sandwich,Meat,TRUE,30,1,TRUE,TRUE,TRUE,,
+addSnack,Vegy Sandwich,Vegiterian,FALSE,15,2,FALSE,FALSE,FALSE,,
+addSnack,Special Bamba,Gluten_Free,TRUE,10,3,TRUE,TRUE,TRUE,,
+addSnack,Pesek Zman,Dairy_Snack,TRUE,8,4,TRUE,TRUE,FALSE,,
+addSnack,Teami,Dairy_Snack,TRUE,7,5,TRUE,TRUE,TRUE,,
+addSnack,Tortit,Dairy_Snack,TRUE,7,6,TRUE,TRUE,FALSE,,
+addSnack,Toast,Vegiterian,FALSE,25,7,FALSE,FALSE,TRUE,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Employee--,,,,,,,,,,
+removeEmployee,60,,,,,,,,,
+removeEmployee,205,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Visitor--,,,,,,,,,,
+removeVisitor,50,,,,,,,,,
+removeVisitor,130,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Mammal--,,,,,,,,,,
+removeMammal,15,,,,,,,,,
+removeMammal,220,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Reptile--,,,,,,,,,,
+removeReptile,210,,,,,,,,,
+removeReptile,30,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Bird--,,,,,,,,,,
+removeBird,5,,,,,,,,,
+removeBird,210,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Snack--,,,,,,,,,,
+removeSnack,55,,,,,,,,,
+removeSnack,110,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Snack--,,,,,,,,,,
+removeSnack,23,,,,,,,,,
+removeSnack,203,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE SnackBar--,,,,,,,,,,
+removeSnackBar,110,,,,,,,,,
+removeSnackBar,25,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+-- REMOVE Section--,,,,,,,,,,
+removeSection,40,2,,,,,,,,
+removeSection,15,7,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--moveVisitorToSection--,,,,,,,,,,
+moveVisitorToSection,1,2,,,,,,,,
+moveVisitorToSection,5,1,,,,,,,,
+moveVisitorToSection,12,2,,,,,,,,
+moveVisitorToSection,15,5,,,,,,,,
+moveVisitorToSection,22,2,,,,,,,,
+moveVisitorToSection,34,6,,,,,,,,
+moveVisitorToSection,53,7,,,,,,,,
+moveVisitorToSection,20,1,,,,,,,,
+moveVisitorToSection,22,27,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--purchaseSnack--,,,,,,,,,,
+purchaseSnack,1,1,,,,,,,,
+purchaseSnack,4,2,,,,,,,,
+purchaseSnack,5,3,,,,,,,,
+purchaseSnack,8,4,,,,,,,,
+purchaseSnack,12,5,,,,,,,,
+purchaseSnack,33,6,,,,,,,,
+purchaseSnack,22,7,,,,,,,,
+purchaseSnack,31,8,,,,,,,,
+purchaseSnack,15,9,,,,,,,,
+purchaseSnack,17,10,,,,,,,,
+purchaseSnack,38,11,,,,,,,,
+purchaseSnack,46,22,,,,,,,,
+purchaseSnack,48,13,,,,,,,,
+purchaseSnack,55,14,,,,,,,,
+purchaseSnack,58,22,,,,,,,,
+purchaseSnack,11,16,,,,,,,,
+purchaseSnack,120,17,,,,,,,,
+purchaseSnack,133,18,,,,,,,,
+purchaseSnack,170,19,,,,,,,,
+purchaseSnack,200,20,,,,,,,,
+purchaseSnack,110,22,,,,,,,,
+purchaseSnack,250,25,,,,,,,,
+purchaseSnack,230,3,,,,,,,,
+purchaseSnack,160,25,,,,,,,,
+purchaseSnack,13,5,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+--VisitAnimals--,,,,,,,,,,
+VisitAnimalsByVisitor,12,2,2,2,,,,,,
+VisitAnimalsByVisitor,34,5,5,5,,,,,,
+VisitAnimalsByVisitor,11,7,7,7,,,,,,
+VisitAnimalsByVisitor,24,110,110,110,,,,,,
+VisitAnimalsByVisitor,55,78,78,78,,,,,,
+VisitAnimalsByVisitor,22,33,33,33,,,,,,
+VisitAnimalsByVisitor,1,22,22,22,,,,,,
+VisitAnimalsByVisitor,4,11,11,11,,,,,,
+VisitAnimalsByVisitor,66,80,80,80,,,,,,
+VisitAnimalsByVisitor,3,33,33,33,,,,,,
+VisitAnimalsByVisitor,6,2,2,2,,,,,,
+VisitAnimalsByVisitor,1,32,32,32,,,,,,
+VisitAnimalsByVisitor,2,21,21,21,,,,,,
+VisitAnimalsByVisitor,4,14,14,14,,,,,,
+VisitAnimalsByVisitor,2,13,13,13,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--treatAnimal--,,,,,,,,,,
+TreatAnimalByWorker,3,2,5,6,,,,,,
+TreatAnimalByWorker,20,5,30,35,,,,,,
+TreatAnimalByWorker,11,7,7,7,,,,,,
+TreatAnimalByWorker,2,10,11,25,,,,,,
+TreatAnimalByWorker,25,2,40,55,,,,,,
+TreatAnimalByWorker,22,5,33,33,,,,,,
+TreatAnimalByWorker,1,7,22,22,,,,,,
+TreatAnimalByWorker,4,10,11,11,,,,,,
+TreatAnimalByWorker,66,2,80,80,,,,,,
+TreatAnimalByWorker,3,9,33,33,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+--getSectionDetails--,,,,,,,,,,
+getSectionDetails,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--checkTotalRevenue--,,,,,,,,,,
+checkTotalRevenue,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--allAnimalBySection--,,,,,,,,,,
+getAllAnimalsBySectionMaxVisits,3,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--allanimalsbyworker--,,,,,,,,,,
+allAnimalsByWorker,11,,,,,,,,,
+allAnimalsByWorker,10,,,,,,,,,
+space,,,,,,,,,,
+--snacksbyworker--,,,,,,,,,,
+findAllSnackByWorker,4,,,,,,,,,
+findAllSnackByWorker,5,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--allreptaliessleeps--,,,,,,,,,,
+reptilesSleepAtSeasson,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+--getalldisc--,,,,,,,,,,
+geAllDiscountAmount,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+--getVisitorsMaxofWorkers--,,,,,,,,,,
+getMaxVisitorsVSMaxWorkers,,,,,,,,,,
+,,,,,,,,,,
+space,,,,,,,,,,
+,,,,,,,,,,
+finish,,,,,,,,,,

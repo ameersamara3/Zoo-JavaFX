@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Point3D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="957.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.visitAnimalByPerson">
+   <children>
+      <ImageView fitHeight="100.0" fitWidth="150.0" layoutX="810.0" layoutY="1.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/cornerlogo.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="361.0" fitWidth="502.0" layoutX="241.0" layoutY="50.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="396.0" layoutY="62.0" prefHeight="25.0" prefWidth="211.0" text="Visit Animal By Person" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Label>
+      <Button blendMode="MULTIPLY" layoutX="34.0" layoutY="635.0" mnemonicParsing="false" onAction="#back" prefHeight="25.0" prefWidth="90.0" style="-fx-background-color: #00EE18;" text="Back" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font></Button>
+      <HBox layoutX="262.0" layoutY="110.0" prefHeight="228.0" prefWidth="460.0">
+         <children>
+            <ListView fx:id="personList" onMousePressed="#update2" prefHeight="228.0" prefWidth="266.0" />
+            <ListView fx:id="animalList" prefHeight="233.0" prefWidth="267.0" />
+         </children>
+      </HBox>
+      <Button blendMode="MULTIPLY" layoutX="427.0" layoutY="353.0" mnemonicParsing="false" onAction="#visitSelected" prefHeight="30.0" prefWidth="130.0" style="-fx-background-color: #E45334;" text="Move" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <ImageView fitHeight="175.0" fitWidth="340.0" layoutX="540.0" layoutY="420.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="562.0" layoutY="437.0" prefHeight="30.0" prefWidth="271.0" text="OR Choose by ID :">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="animalID" layoutX="562.0" layoutY="517.0" prefHeight="30.0" prefWidth="180.0" promptText="Enter Animal ID">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="personID" layoutX="562.0" layoutY="468.0" prefHeight="30.0" prefWidth="180.0" promptText="Enter Person ID ">
+         <font>
+            <Font size="14.0" />
+         </font>
+         <rotationAxis>
+            <Point3D x="-10.0" z="1.0" />
+         </rotationAxis>
+      </TextField>
+      <Button blendMode="MULTIPLY" layoutX="772.0" layoutY="483.0" mnemonicParsing="false" onAction="#visitID" prefHeight="30.0" prefWidth="74.0" style="-fx-background-color: #E45334;" text="Move" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <Label layoutX="332.0" layoutY="87.0" prefHeight="18.0" prefWidth="114.0" text="Person">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="566.0" layoutY="87.0" prefHeight="12.0" prefWidth="99.0" text="Animals">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="141.0" fitWidth="204.0" layoutX="27.0" layoutY="53.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="49.0" layoutY="74.0" prefHeight="25.0" prefWidth="159.0" text="Choose Animal:">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Label>
+      <RadioButton fx:id="mammal" layoutX="65.0" layoutY="108.0" mnemonicParsing="false" onMouseClicked="#update2" prefHeight="30.0" prefWidth="114.0" text="Mammals">
+         <toggleGroup>
+            <ToggleGroup fx:id="animal" />
+         </toggleGroup>
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></RadioButton>
+      <RadioButton fx:id="bird" layoutX="65.0" layoutY="147.0" mnemonicParsing="false" onMouseClicked="#update2" prefHeight="30.0" prefWidth="114.0" text="Birds" toggleGroup="$animal">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></RadioButton>
+      <ImageView fitHeight="150.0" fitWidth="204.0" layoutX="27.0" layoutY="206.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="54.0" layoutY="218.0" prefHeight="20.0" prefWidth="125.0" text="Choose Person:">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Label>
+      <RadioButton fx:id="employee" layoutX="58.0" layoutY="249.0" mnemonicParsing="false" onMouseClicked="#update1" prefHeight="30.0" prefWidth="114.0" text="Employee">
+         <toggleGroup>
+            <ToggleGroup fx:id="person" />
+         </toggleGroup>
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></RadioButton>
+      <RadioButton fx:id="visitor" layoutX="60.0" layoutY="284.0" mnemonicParsing="false" onMouseClicked="#update1" prefHeight="51.0" prefWidth="120.0" text="Visitor" toggleGroup="$person">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></RadioButton>
+   </children>
+</AnchorPane>

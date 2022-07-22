@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="957.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.addFood">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="480.0" focusTraversable="true" layoutX="480.0" layoutY="300.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/map.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="400.0" fitWidth="480.0" focusTraversable="true" layoutY="1.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="100.0" fitWidth="150.0" focusTraversable="true" layoutX="810.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/cornerlogo.PNG" />
+         </image>
+      </ImageView>
+      <VBox layoutX="32.0" layoutY="28.0" prefHeight="342.0" prefWidth="138.0">
+         <children>
+            <Label prefHeight="38.0" prefWidth="154.0" text="Food Type">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="10.0" prefHeight="46.0" prefWidth="197.0" text="Food Name">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="10.0" prefHeight="46.0" prefWidth="199.0" text="SnackBar ID">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="196.0" prefHeight="46.0" prefWidth="198.0" text="Fattening">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label prefHeight="26.0" prefWidth="154.0" text="Price">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label prefHeight="46.0" prefWidth="198.0" text="Plate">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label prefHeight="46.0" prefWidth="198.0" text="Spaciy">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+            <Label prefHeight="46.0" prefWidth="134.0" text="GlutenFree">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <VBox layoutX="161.0" layoutY="33.0" prefHeight="342.0" prefWidth="292.0">
+         <children>
+            <ChoiceBox fx:id="type" prefHeight="7.0" prefWidth="230.0" />
+            <Separator prefHeight="17.0" prefWidth="150.0" />
+            <TextField fx:id="name" prefHeight="9.0" prefWidth="235.0" promptText="Enter Food Name">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </TextField>
+            <Separator prefHeight="8.0" prefWidth="235.0" />
+            <TextField fx:id="id" layoutX="10.0" layoutY="53.0" prefHeight="30.0" prefWidth="214.0" promptText="Enter Snack Bar ID">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </TextField>
+            <Separator prefHeight="18.0" prefWidth="150.0" />
+            <HBox prefHeight="10.0" prefWidth="233.0">
+               <children>
+                  <RadioButton fx:id="fatTrue" mnemonicParsing="false" prefHeight="27.0" prefWidth="70.0" text="YES">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="fat" />
+                     </toggleGroup></RadioButton>
+                  <RadioButton fx:id="fatFalse" mnemonicParsing="false" prefHeight="24.0" prefWidth="75.0" text="NO" toggleGroup="$fat" />
+               </children>
+            </HBox>
+            <Separator prefHeight="10.0" prefWidth="235.0" />
+            <TextField fx:id="price" layoutX="10.0" layoutY="53.0" prefHeight="13.0" prefWidth="228.0" promptText="Enter The Price">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </TextField>
+            <Separator prefHeight="11.0" prefWidth="235.0" />
+            <HBox prefHeight="24.0" prefWidth="211.0">
+               <children>
+                  <RadioButton fx:id="plateTrue" mnemonicParsing="false" prefHeight="27.0" prefWidth="70.0" text="YES">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="plate" />
+                     </toggleGroup>
+                  </RadioButton>
+                  <RadioButton fx:id="plateFalse" mnemonicParsing="false" prefHeight="24.0" prefWidth="75.0" text="NO" toggleGroup="$plate" />
+               </children>
+            </HBox>
+            <Separator prefHeight="18.0" prefWidth="150.0" />
+            <HBox prefHeight="24.0" prefWidth="211.0">
+               <children>
+                  <RadioButton fx:id="spaciyTrue" mnemonicParsing="false" prefHeight="27.0" prefWidth="70.0" text="YES">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="spaciy" />
+                     </toggleGroup>
+                  </RadioButton>
+                  <RadioButton fx:id="spaciyFalse" mnemonicParsing="false" prefHeight="24.0" prefWidth="75.0" text="NO" toggleGroup="$spaciy" />
+               </children>
+            </HBox>
+            <Separator prefHeight="18.0" prefWidth="150.0" />
+            <HBox prefHeight="24.0" prefWidth="211.0">
+               <children>
+                  <RadioButton fx:id="glutenTrue" mnemonicParsing="false" prefHeight="27.0" prefWidth="70.0" text="YES">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="gluten" />
+                     </toggleGroup>
+                  </RadioButton>
+                  <RadioButton fx:id="glutenFalse" mnemonicParsing="false" prefHeight="24.0" prefWidth="75.0" text="NO" toggleGroup="$gluten" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <Button layoutX="720.0" layoutY="344.0" mnemonicParsing="false" onAction="#submit" prefHeight="27.0" prefWidth="100.0" style="-fx-background-color: #1A00EE; -fx-background-radius: 100;" text="Add Food" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font></Button>
+      <HBox layoutX="10.0" layoutY="10.0" prefHeight="24.0" prefWidth="211.0" />
+      <Button blendMode="MULTIPLY" layoutX="50.0" layoutY="595.0" mnemonicParsing="false" onAction="#back" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: #00EE18;" text="Back" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

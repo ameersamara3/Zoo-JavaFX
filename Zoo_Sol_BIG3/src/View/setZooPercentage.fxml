@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" fx:id="screen" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="957.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.setZooPercentage">
+   <children>
+      <ImageView fitHeight="517.0" fitWidth="616.0" focusTraversable="true" layoutX="178.0" layoutY="72.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/empty.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="100.0" fitWidth="150.0" focusTraversable="true" layoutX="810.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@View/photoszoo/cornerlogo.PNG" />
+         </image>
+      </ImageView>
+      <Button blendMode="MULTIPLY" layoutX="58.0" layoutY="586.0" mnemonicParsing="false" onAction="#back" prefHeight="25.0" prefWidth="90.0" style="-fx-background-color: #00EE18;" text="Back" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="18.0" />
+         </font></Button>
+      <Label layoutX="378.0" layoutY="106.0" prefHeight="46.0" prefWidth="255.0" text="Set Zoo Percentage">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="373.0" layoutY="283.0" prefHeight="30.0" prefWidth="253.0" text="Enter zoo percentage">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="percentage" layoutX="364.0" layoutY="341.0" prefHeight="30.0" prefWidth="274.0" promptText="Enter double number">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextField>
+      <Button blendMode="MULTIPLY" layoutX="397.0" layoutY="524.0" mnemonicParsing="false" onAction="#set" prefHeight="39.0" prefWidth="170.0" style="-fx-background-color: #E45334;" text="Set" textAlignment="CENTER" textFill="#fff6f6">
+         <font>
+            <Font name="System Bold Italic" size="18.0" />
+         </font></Button>
+   </children>
+</AnchorPane>
