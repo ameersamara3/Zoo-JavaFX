@@ -1,4 +1,3 @@
 # Zoo-JavaFX
-an information system for manging a zoo,
-no sql used, only using serizable built-in java to save data,
-done everything except design
+Information System Development - Backend & Frontend.
+Developed an information system of a zoo, with back-end and front-end sides. Demonstrated OOP and programming skills such as: inheritance, interfaces, data structures, exceptions, Enums, singleton, serialization. Used: Java, Eclipse, SceneBuilder, JavaFx.
